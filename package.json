@@ -1,0 +1,18 @@
+{
+  "name": "xiaojingge-doc",
+  "version": "0.0.1",
+  "scripts": {
+    "pre:npm": "npm install --registry https://registry.npmmirror.com || npm install --registry https://registry.npmjs.org",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "author": "筱晶哥哥",
+  "license": "Apache-2.0",
+  "keywords": [
+    "vitepress"
+  ],
+  "devDependencies": {
+    "vitepress": "1.2.3"
+  }
+}
