@@ -88,6 +88,12 @@ export default defineConfig({
         base: '/project/',
         items: [{ text: '个人项目', link: 'personal' }],
       },
+      {
+        text: '个人学习',
+        collapsed: false,
+        base: '/study/',
+        items: [{ text: '学习记录', link: 'record' }],
+      },
     ],
 
     socialLinks: [
