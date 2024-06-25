@@ -12,9 +12,15 @@
 
 ## 个人网站 {id=person}
 
-| 个人网站           | 地址                       |
-| ------------------ | -------------------------- |
-| 筱晶哥哥 IT 知识库 | https://www.xiaojingge.com |
+| 个人网站                    | 地址                                  |
+| --------------------------- | ------------------------------------- |
+| 筱晶哥哥主站                | https://www.xiaojingge.com            |
+| 筱晶哥哥文档                | https://doc.xiaojingge.com            |
+| 筱晶哥哥 IT 知识库          | https://knowledge.xiaojingge.com      |
+| 筱晶哥哥 yilia 主题博客     | https://blog-yilia.xiaojingge.com     |
+| 筱晶哥哥 next 主题博客      | https://blog-next.xiaojingge.com      |
+| 筱晶哥哥 butterfly 主题博客 | https://blog-butterfly.xiaojingge.com |
+| 晶哥哥大学时期的导航页      | https://nav.xiaojingge.com            |
 
 <style>
 

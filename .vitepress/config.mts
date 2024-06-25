@@ -55,6 +55,22 @@ export default defineConfig({
             text: '筱晶哥主站',
             link: 'https://www.xiaojingge.com',
           },
+          {
+            text: '筱晶哥哥IT知识库',
+            link: 'https://knowledge.xiaojingge.com',
+          },
+          {
+            text: '筱晶哥哥yilia主题博客',
+            link: 'https://blog-yilia.xiaojingge.com',
+          },
+          {
+            text: '筱晶哥哥next主题博客',
+            link: 'https://blog-next.xiaojingge.com',
+          },
+          {
+            text: '筱晶哥哥butterfly主题博客',
+            link: 'https://blog-butterfly.xiaojingge.com',
+          },
         ],
       },
     ],
@@ -93,6 +109,16 @@ export default defineConfig({
         collapsed: false,
         base: '/study/',
         items: [{ text: '学习记录', link: 'record' }],
+      },
+      {
+        text: '工具',
+        collapsed: false,
+        base: '/tools/',
+        items: [
+          { text: 'Git命令速查表', link: 'git' },
+          { text: 'Idea命令速查表', link: 'idea' },
+          { text: '晶哥常用工具导航', link: 'nav' },
+        ],
       },
     ],
 
