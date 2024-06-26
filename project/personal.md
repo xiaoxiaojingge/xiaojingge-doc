@@ -10,6 +10,7 @@
 | --------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------- |
 | [component-study](https://gitee.com/xiaojinggege/component-study)     | [![](./static/github.svg)](https://github.com/xiaoxiaojingge/ComponentStudy) | 学习各组件过程中的代码，笔记等，更新中 |
 | [xiaojingge-models](https://gitee.com/xiaojinggege/xiaojingge-models) | [![](./static/github.svg)](#)                                                | 记录本人模型学习相关                   |
+| [knowledge-study](https://gitee.com/xiaojinggege/knowledge-study)     | [![](./static/github.svg)](#)                                                | 知识点学习                             |
 
 <style>
 
