@@ -219,6 +219,23 @@ export default defineConfig({
           { text: '资源记录', link: 'resource' },
         ],
       },
+      {
+        text: 'docker-compose编排组件',
+        collapsed: false,
+        base: '/docker-compose/',
+        items: [
+          { text: 'nginx-proxy-manager', link: 'nginx-proxy-manager' },
+          { text: 'nginx-web-ui', link: 'nginx-web-ui' },
+          { text: 'umami', link: 'umami' },
+          { text: 'uptime-kuma', link: 'uptime-kuma' },
+        ],
+      },
+      {
+        text: '实用网站',
+        collapsed: false,
+        base: '/websites/',
+        items: [{ text: '程序开发常用网址', link: 'common-website' }],
+      },
     ],
 
     socialLinks: [
