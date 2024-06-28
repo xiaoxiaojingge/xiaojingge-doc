@@ -234,7 +234,10 @@ export default defineConfig({
         text: '实用网站',
         collapsed: false,
         base: '/websites/',
-        items: [{ text: '程序开发常用网址', link: 'common-website' }],
+        items: [
+          { text: '程序开发常用网址', link: 'common-website' },
+          { text: '大佬博客', link: 'excellent-blog' },
+        ],
       },
     ],
 
