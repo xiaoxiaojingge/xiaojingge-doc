@@ -4,11 +4,11 @@
 
 - 仅列举部分项目
 
-| 码云 Gitee                                                            | GitHub                                                                       | 说明                                   |
-| --------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------- |
-| [component-study](https://gitee.com/xiaojinggege/component-study)     | [![](./static/github.svg)](https://github.com/xiaoxiaojingge/ComponentStudy) | 学习各组件过程中的代码，笔记等，更新中 |
-| [xiaojingge-models](https://gitee.com/xiaojinggege/xiaojingge-models) | [![](./static/github.svg)](#)                                                | 记录本人模型学习相关                   |
-| [knowledge-study](https://gitee.com/xiaojinggege/knowledge-study)     | [![](./static/github.svg)](#)                                                | 知识点学习                             |
+| 码云 Gitee                                                                            | GitHub                                                                       | 说明                                   |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------- |
+| [component-study](https://gitee.com/xiaojinggege/component-study)                     | [![](./static/github.svg)](https://github.com/xiaoxiaojingge/ComponentStudy) | 学习各组件过程中的代码，笔记等，更新中 |
+| [xiaojingge-models](https://gitee.com/xiaojinggege/xiaojingge-models)                 | [![](./static/github.svg)](#)                                                | 记录本人模型学习相关                   |
+| [xiaojingge-learning-notes](https://gitee.com/xiaojinggege/xiaojingge-learning-notes) | [![](./static/github.svg)](#)                                                | 筱晶哥哥学习笔记                       |
 
 <style>
 
