@@ -227,3 +227,5 @@
     5. [沙雕导航网 | 有趣好玩的网址导航](https://shadiao.pro/)
     6. [格姗导航 - 可自定义的简洁导航网站](https://gesdh.cn/)
     7. [不求人导航 | 专业导航网站](https://www.bqrdh.com/)
+52. 浏览器
+    1. [Chrome 各个版本下载](https://googlechromelabs.github.io/chrome-for-testing/)

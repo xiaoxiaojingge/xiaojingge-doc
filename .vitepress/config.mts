@@ -239,6 +239,22 @@ export default defineConfig({
           { text: '大佬博客', link: 'excellent-blog' },
         ],
       },
+      {
+        text: '文章手记',
+        collapsed: false,
+        base: '/notes/',
+        items: [
+          { text: '晶哥常用', link: 'common-use' },
+          { text: '所见所闻', link: 'heard' },
+          { text: '工具资源', link: 'tools' },
+          { text: '晶哥哥的Vagrant配置', link: 'vagrant' },
+          { text: '资源记录', link: 'resource' },
+          { text: '图床', link: 'draw-bed' },
+          { text: 'ChatGPT', link: 'gpt' },
+          { text: '前端', link: 'front' },
+          { text: '🐔场', link: 'vpn' },
+        ],
+      },
     ],
 
     socialLinks: [
