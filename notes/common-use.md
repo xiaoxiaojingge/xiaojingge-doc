@@ -6,6 +6,8 @@
 
 [Maven 搜索](http://mvn.coderead.cn/)
 
+[英语学习网站，爽学英语](https://earthworm.cuixueshe.com/)
+
 [在线代码截图工具，写博客必备](https://carbon.now.sh/)
 
 [Hipdf：您的一站式免费在线 PDF 解决方案](https://www.hipdf.cn/)
