@@ -18,7 +18,9 @@
 | 筱晶哥哥 yilia 主题博客     | https://blog-yilia.xiaojingge.com     |
 | 筱晶哥哥 next 主题博客      | https://blog-next.xiaojingge.com      |
 | 筱晶哥哥 butterfly 主题博客 | https://blog-butterfly.xiaojingge.com |
-| 晶哥哥大学时期的导航页      | https://nav.xiaojingge.com            |
+| 筱晶哥哥大学时期的导航页    | https://nav.xiaojingge.com            |
+| 筱晶哥哥中文变量命名工具    | https://varbook.xiaojingge.com        |
+| 筱晶哥哥开发运维备忘手册    | https://cheatsheet.xiaojingge.com     |
 
 <style>
 
