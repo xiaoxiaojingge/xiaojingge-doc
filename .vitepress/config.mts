@@ -255,6 +255,16 @@ export default defineConfig({
           { text: '🐔场', link: 'vpn' },
         ],
       },
+      {
+        text: '镜像',
+        collapsed: false,
+        base: '/images/',
+        items: [
+          { text: 'jarboot', link: 'jarboot' },
+          { text: 'dragonwell', link: 'dragonwell' },
+          { text: 'varbook', link: 'varbook' },
+        ],
+      },
     ],
 
     socialLinks: [
