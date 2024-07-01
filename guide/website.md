@@ -21,6 +21,7 @@
 | 筱晶哥哥大学时期的导航页    | https://nav.xiaojingge.com            |
 | 筱晶哥哥中文变量命名工具    | https://varbook.xiaojingge.com        |
 | 筱晶哥哥开发运维备忘手册    | https://cheatsheet.xiaojingge.com     |
+| 筱晶哥哥 Linux 命令手册     | https://linux-cmd.xiaojingge.com      |
 
 <style>
 

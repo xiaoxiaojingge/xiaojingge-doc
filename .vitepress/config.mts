@@ -162,6 +162,22 @@ export default defineConfig({
             text: '筱晶哥哥butterfly主题博客',
             link: 'https://blog-butterfly.xiaojingge.com',
           },
+          {
+            text: '筱晶哥哥大学时期的导航页',
+            link: 'https://nav.xiaojingge.com',
+          },
+          {
+            text: '筱晶哥哥中文变量命名工具',
+            link: 'https://varbook.xiaojingge.com',
+          },
+          {
+            text: '筱晶哥哥开发运维备忘手册',
+            link: 'https://cheatsheet.xiaojingge.com',
+          },
+          {
+            text: '筱晶哥哥 Linux 命令手册',
+            link: 'https://linux-cmd.xiaojingge.com',
+          },
         ],
       },
     ],
