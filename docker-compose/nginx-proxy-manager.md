@@ -1,6 +1,7 @@
 ```yaml
 version: '3'
 
+# https://github.com/NginxProxyManager/nginx-proxy-manager
 # 默认邮箱：admin@example.com
 # 默认密码：changeme
 services:

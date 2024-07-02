@@ -244,6 +244,7 @@ export default defineConfig({
           { text: 'nginx-web-ui', link: 'nginx-web-ui' },
           { text: 'umami', link: 'umami' },
           { text: 'uptime-kuma', link: 'uptime-kuma' },
+          { text: 'cloud-canal', link: 'cloud-canal' },
         ],
       },
       {

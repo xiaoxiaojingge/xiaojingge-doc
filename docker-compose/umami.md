@@ -1,5 +1,7 @@
 ```yaml
 version: '3'
+
+# https://github.com/umami-software/umami
 services:
   umami:
     image: ghcr.dockerproxy.com/umami-software/umami:postgresql-latest

@@ -40,6 +40,9 @@
 
 17、[kkFileView，使用 spring boot 打造文件文档在线预览项目解决方案，支持众多文件类型在线预览](https://gitee.com/kekingcn/file-online-preview)
 
+18、[Proxmox VE](https://www.proxmox.com/en/downloads) 是一个既可以运行虚拟机也可以运行容器的虚拟化平台。Proxmox VE 基于 Debian Linux 开发， 并且完全开源。 出于灵活性的考虑， Proxmox VE 同时支持两种虚拟化技术： KVM 虚拟机和 LXC 容器。
+主要优点：开源软件，没有单一厂商依赖，Linux 内核，快速安装，易于使用，基于 Web 的管理界面，REST API，庞大而活跃的社区，很低的管理和部署成本等。
+
 ### 文章记录
 
 [震惊 😱 超详细的 Docker 常用命令](https://juejin.cn/post/7245275769219203132)
