@@ -255,6 +255,11 @@ export default defineConfig({
           { text: '程序开发常用网址', link: 'common-website' },
           { text: '大佬博客', link: 'excellent-blog' },
           { text: '开源镜像站点', link: 'mirror-site' },
+          {
+            text: '运维',
+            link: 'operation-and-maintenance',
+          },
+          { text: 'Api平台', link: 'api' },
         ],
       },
       {
