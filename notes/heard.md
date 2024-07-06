@@ -1,4 +1,4 @@
-### 所闻
+## 所闻
 
 1、你居然还去服务器上捞日志，搭个日志收集系统难道不香么！
 
@@ -43,10 +43,30 @@
 18、[Proxmox VE](https://www.proxmox.com/en/downloads) 是一个既可以运行虚拟机也可以运行容器的虚拟化平台。Proxmox VE 基于 Debian Linux 开发， 并且完全开源。 出于灵活性的考虑， Proxmox VE 同时支持两种虚拟化技术： KVM 虚拟机和 LXC 容器。
 主要优点：开源软件，没有单一厂商依赖，Linux 内核，快速安装，易于使用，基于 Web 的管理界面，REST API，庞大而活跃的社区，很低的管理和部署成本等。
 
-### 文章记录
+## 文章记录
 
 [震惊 😱 超详细的 Docker 常用命令](https://juejin.cn/post/7245275769219203132)
 
 [为什么不推荐在 Spring Boot 中使用@Value 加载配置](https://www.didispace.com/article/spring-boot/spring-boot-stop-use-value.html)
 
 [如何在 Java 中读取超过内存大小的文件](https://www.didispace.com/article/richang/java-process-large-file.html)
+
+## 随笔
+
+### java 有什么贝叶斯概率预测的工具库吗
+
+Java 中有几个常用的贝叶斯概率预测的工具库，你可以考虑使用以下几个：
+
+Apache Commons Math: 这是一个 Apache 软件基金会提供的开源数学库，其中包含了贝叶斯推断和概率分布的实现。你可以使用它来进行贝叶斯网络、贝叶斯推断等相关操作。
+
+官方网站：https://commons.apache.org/proper/commons-math/
+
+Weka: Weka 是一个流行的机器学习库，提供了贝叶斯网络等机器学习算法的实现。它提供了易于使用的界面和 API，适合于实验和应用中的数据挖掘和机器学习任务。
+
+官方网站：https://www.cs.waikato.ac.nz/ml/weka/
+
+Bayes Server: 这是一个商业级别的贝叶斯网络和概率图模型工具。它提供了 Java API，可以用于构建和部署贝叶斯网络模型，并进行概率推断。
+
+官方网站：https://www.bayesserver.com/
+
+这些库都提供了丰富的功能和文档，适合于不同的贝叶斯概率预测任务和应用场景。选择其中一个取决于你的具体需求和项目的要求。
