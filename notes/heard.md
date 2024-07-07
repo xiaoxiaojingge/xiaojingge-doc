@@ -55,18 +55,26 @@
 
 ### java 有什么贝叶斯概率预测的工具库吗
 
-Java 中有几个常用的贝叶斯概率预测的工具库，你可以考虑使用以下几个：
+- Java 中有几个常用的贝叶斯概率预测的工具库，你可以考虑使用以下几个：
 
 Apache Commons Math: 这是一个 Apache 软件基金会提供的开源数学库，其中包含了贝叶斯推断和概率分布的实现。你可以使用它来进行贝叶斯网络、贝叶斯推断等相关操作。
 
 官方网站：https://commons.apache.org/proper/commons-math/
 
-Weka: Weka 是一个流行的机器学习库，提供了贝叶斯网络等机器学习算法的实现。它提供了易于使用的界面和 API，适合于实验和应用中的数据挖掘和机器学习任务。
+- Weka: Weka 是一个流行的机器学习库，提供了贝叶斯网络等机器学习算法的实现。它提供了易于使用的界面和 API，适合于实验和应用中的数据挖掘和机器学习任务。
 
 官方网站：https://www.cs.waikato.ac.nz/ml/weka/
 
-Bayes Server: 这是一个商业级别的贝叶斯网络和概率图模型工具。它提供了 Java API，可以用于构建和部署贝叶斯网络模型，并进行概率推断。
+- Bayes Server: 这是一个商业级别的贝叶斯网络和概率图模型工具。它提供了 Java API，可以用于构建和部署贝叶斯网络模型，并进行概率推断。
 
 官方网站：https://www.bayesserver.com/
+
+[10.10 版本下载](https://www.bayesserver.com/downloadlinks.aspx?major=10&minor=10&revision=0&build=0)
+
+[9.5 版本下载](https://www.bayesserver.com/downloadlinks.aspx?major=9&minor=5&revision=0&build=0)
+
+[Java 集成使用教程](https://www.bayesserver.com/code/java/setup-java)
+
+[相关 Java Api 文档](https://www.bayesserver.com/api/java/)
 
 这些库都提供了丰富的功能和文档，适合于不同的贝叶斯概率预测任务和应用场景。选择其中一个取决于你的具体需求和项目的要求。
