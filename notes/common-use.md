@@ -87,3 +87,7 @@
 [小林 coding](https://www.xiaolincoding.com/)
 
 [莫烦 Python 网](https://mofanpy.com/)
+
+## 生活类
+
+[影视资源防丢失和谐.最新地址发布页](https://docs.qq.com/sheet/DSndLS0xUaG9WS1Fm?tab=BB08J2)
