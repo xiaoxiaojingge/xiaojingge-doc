@@ -24,6 +24,8 @@
 
 [在线对图片进行透明圆角处理 - 在线生成透明圆角图片、图标工具](https://www.pcccp.cn/yj/)
 
+[LKs - 良心到难以置信的网站推荐](https://lkssite.vip/)
+
 ## 文件快传
 
 [文叔叔](https://www.wenshushu.cn/)
