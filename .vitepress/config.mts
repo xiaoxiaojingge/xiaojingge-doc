@@ -215,7 +215,10 @@ export default defineConfig({
         text: '个人学习',
         collapsed: false,
         base: '/study/',
-        items: [{ text: '学习记录', link: 'record' }],
+        items: [
+          { text: '学习记录', link: 'record' },
+          { text: '常用文档', link: 'document' },
+        ],
       },
       {
         text: '工具',
