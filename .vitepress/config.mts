@@ -282,6 +282,15 @@ export default defineConfig({
         ],
       },
       {
+        text: '下载',
+        collapsed: false,
+        base: '/download/',
+        items: [
+          { text: 'CentOS下载', link: 'centos' },
+          { text: 'Ubuntu下载', link: 'ubuntu' },
+        ],
+      },
+      {
         text: '镜像',
         collapsed: false,
         base: '/images/',
