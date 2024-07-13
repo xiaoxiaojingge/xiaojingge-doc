@@ -7,3 +7,5 @@
 [趣味云：直链附件上传下载系统](https://www.ffsup.com/)
 
 [put.re](https://put.re/)
+
+[图壳图床](https://imgkr.com/)
