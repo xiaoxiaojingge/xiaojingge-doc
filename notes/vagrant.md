@@ -2,6 +2,14 @@
 
 ## CentOS
 
+[国内镜像源](https://mirrors.ustc.edu.cn/centos-cloud/centos/)
+
+[官方镜像源](https://cloud.centos.org/centos/)
+
+`将下面的镜像地址换成需要的版本即可。`
+
+**CentOS7**
+
 ```ruby
 Vagrant.configure("2") do |config|
     # box镜像地址
@@ -107,6 +115,206 @@ EOF
 end
 ```
 
+**CentOS Stream 8**
+
+```bash
+Vagrant.configure("2") do |config|
+    # box镜像地址
+    config.vm.box_url = "https://mirrors.ustc.edu.cn/centos-cloud/centos/8-stream/x86_64/images/CentOS-Stream-Vagrant-8-20220913.0.x86_64.vagrant-virtualbox.box"
+
+	# 设置虚拟机的Box，使用的虚拟机镜像
+	config.vm.box = "centos8-stream"
+
+	# 设置虚拟机的主机名
+	config.vm.hostname="centos8-stream"
+
+    # 设置磁盘大小，视情况而定
+    # 记得先安装插件： vagrant plugin install  --plugin-clean-sources vagrant-disksize-0.1.3.gem
+    # 到此处下载：https://share.weiyun.com/egZ7oNo2
+    # 如果想要扩容，则需要执行 vagrant halt 关闭vagrant，然后重新拉起：vagrant up
+    config.disksize.size = '100GB'
+
+	# 设置虚拟机的网络
+
+    # 1、Vagrant总是将虚拟机的第一个网卡设置为NAT，即网络地址转换，虚拟机只可以单向访问外网，但是外网访问不了虚拟机，虚拟机之间也是相互隔离的。在NAT模式下，如果想访问虚拟机的端口，可以使用端口转发，端口转发虽然可以访问虚拟机的服务，但是不适合搭建分布式集群。
+
+    # 2、使用私有网络，可以实现虚拟机之间的访问，Vagrant将网卡设置为仅主机模式（Host-only），顾名思义，只能从宿主机访问虚拟机，无法通过外部主机访问虚拟机。
+	config.vm.network "private_network", ip: "192.168.56.105"
+
+    # 3、如果要从别的主机访问虚拟机，可以设置公有网络，在virtualbox中使用bridge桥接网络实现，桥接网络将虚拟机等同于网络中的真实主机，可以像访问其他主机一样访问虚拟机。
+    # 除了指定ip，还需要指定桥接的网卡，查看桥接网卡命令为：VBoxManage list bridgedifs，记得将virtualbox目录添加到环境变量，否则找不到命令
+    config.vm.network "public_network", ip: "192.168.0.105", bridge: "Realtek Gaming 2.5GbE Family Controller"
+
+	# 设置主机与虚拟机的共享目录
+	# config.vm.synced_folder "~/Documents/vagrant/share", "/home/vagrant/share"
+
+    # 虚拟化提供者 provider
+	# VirtaulBox相关配置，修改后，使用 vagrant reload 会自动修改对应配置
+	config.vm.provider "virtualbox" do |v|
+		# 设置虚拟机的名称，这个会在VirtualBox中显示的
+		v.name = "centos8-stream"
+		# 设置虚拟机的内存大小
+		v.memory = 8192
+		# 设置虚拟机的CPU个数
+		v.cpus = 4
+	end
+
+    # 配置管理器 provision
+    # 配置管理器只在第一次使用 vagrant up 创建环境时执行，如果虚拟机已经创建，则vagrant up或vagrant reload不会再次运行配置管理器，需要显式调用
+    # vagrant up --provision
+    # vagrant reload --provision
+    # 手动执行（常用来测试或调试脚本）：vagrant provision
+
+    # 配置Shell脚本在虚拟机创建后启动时自动执行
+    # 修改vagrant用户密码
+    config.vm.provision "shell", inline: "echo vagrant:lijing123456 | sudo chpasswd"
+    # 修改root用户密码
+    config.vm.provision "shell", inline: "echo root:lijing123456 | sudo chpasswd"
+    # 启用ssh密码登录，使用外部脚本，注意脚本位置
+    config.vm.provision "shell", path: "enablePasswordAuth.sh"
+    # 安装软件操作
+    config.vm.provision "shell", inline: <<-SHELL
+      # 配置阿里云YUM源
+	  rm -rf /etc/yum.repos.d/*
+sudo tee /etc/yum.repos.d/centos.repo <<-'EOF'
+[baseos]
+name=CentOS Stream $releasever - BaseOS
+baseurl=https://mirrors.aliyun.com/centos-vault/$stream/BaseOS/$basearch/os/
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
+gpgcheck=1
+repo_gpgcheck=0
+metadata_expire=6h
+countme=1
+enabled=1
+
+[baseos-debug]
+name=CentOS Stream $releasever - BaseOS - Debug
+baseurl=https://mirrors.aliyun.com/centos-vault/$stream/BaseOS/$basearch/debug/tree/
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
+gpgcheck=1
+repo_gpgcheck=0
+metadata_expire=6h
+enabled=0
+
+[baseos-source]
+name=CentOS Stream $releasever - BaseOS - Source
+baseurl=https://mirrors.aliyun.com/centos-vault/$stream/BaseOS/source/tree/
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
+gpgcheck=1
+repo_gpgcheck=0
+metadata_expire=6h
+enabled=0
+
+[appstream]
+name=CentOS Stream $releasever - AppStream
+baseurl=https://mirrors.aliyun.com/centos-vault/$stream/AppStream/$basearch/os/
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
+gpgcheck=1
+repo_gpgcheck=0
+metadata_expire=6h
+countme=1
+enabled=1
+
+[appstream-debug]
+name=CentOS Stream $releasever - AppStream - Debug
+baseurl=https://mirrors.aliyun.com/centos-vault/$stream/AppStream/$basearch/debug/tree/
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
+gpgcheck=1
+repo_gpgcheck=0
+metadata_expire=6h
+enabled=0
+
+[appstream-source]
+name=CentOS Stream $releasever - AppStream - Source
+baseurl=https://mirrors.aliyun.com/centos-vault/$stream/AppStream/$basearch/debug/tree/
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
+gpgcheck=1
+repo_gpgcheck=0
+metadata_expire=6h
+enabled=0
+
+[crb]
+name=CentOS Stream $releasever - CRB
+baseurl=https://mirrors.aliyun.com/centos-vault/$stream/CRB/$basearch/os/
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
+gpgcheck=1
+repo_gpgcheck=0
+metadata_expire=6h
+countme=1
+enabled=0
+
+[crb-debug]
+name=CentOS Stream $releasever - CRB - Debug
+baseurl=https://mirrors.aliyun.com/centos-vault/$stream/CRB/$basearch/debug/tree/
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
+gpgcheck=1
+repo_gpgcheck=0
+metadata_expire=6h
+enabled=0
+
+[crb-source]
+name=CentOS Stream $releasever - CRB - Source
+baseurl=https://mirrors.aliyun.com/centos-vault/$stream/CRB/source/tree/
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
+gpgcheck=1
+repo_gpgcheck=0
+metadata_expire=6h
+enabled=0
+EOF
+
+      # 命令补全工具
+      yum install -y bash-completion
+
+      # 安装vim
+      yum install -y vim
+
+      # 安装docker和docker-compose
+      # 卸载旧版本
+      yum remove docker \
+                  docker-client \
+                  docker-client-latest \
+                  docker-common \
+                  docker-latest \
+                  docker-latest-logrotate \
+                  docker-logrotate \
+                  docker-engine
+      # 使用国内阿里云镜像，十分快
+      yum-config-manager \
+        --add-repo \
+        https://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
+      # 更新yum软件包索引
+	  yum makecache
+      yum install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+      
+      sudo systemctl enable docker.service
+	  sudo systemctl enable docker.socket
+	  systemctl list-unit-files | grep docker
+	  
+      # 启动docker
+      sudo systemctl start docker.service
+      sudo systemctl start docker.socket
+
+ 	  # 编写镜像加速配置文件
+      sudo mkdir -p /etc/docker
+sudo tee /etc/docker/daemon.json <<-'EOF'
+{
+  "registry-mirrors": ["https://n2zg5mlq.mirror.aliyuncs.com"]
+}
+EOF
+      # 重启服务
+      sudo systemctl daemon-reload
+      sudo systemctl restart docker
+      # 设置开机自启
+      systemctl enable docker.service
+
+      # 查看版本
+      docker version
+      docker compose version
+
+    SHELL
+end
+```
+
 `enablePasswordAuth.sh`
 
 ```bash
@@ -118,10 +326,11 @@ sed -i 's/^PasswordAuthentication .*/PasswordAuthentication yes/' /etc/ssh/sshd_
 # sed -i 's/^#\(LoginGraceTime\|PermitRootLogin\|StrictModes\|MaxAuthTries\|MaxSessions\)/\1/' /etc/ssh/sshd_config
 systemctl reload sshd
 service sshd restart
-service ssh restart
 ```
 
 ## Ubuntu
+
+[国内清华镜像源](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cloud-images/jammy/)
 
 ```ruby
 Vagrant.configure("2") do |config|
