@@ -10,18 +10,19 @@
 
 ## 个人网站 {id=person}
 
-| 个人网站                    | 地址                                  |
-| --------------------------- | ------------------------------------- |
-| 筱晶哥哥主站                | https://www.xiaojingge.com            |
-| 筱晶哥哥文档                | https://doc.xiaojingge.com            |
-| 筱晶哥哥 IT 知识库          | https://knowledge.xiaojingge.com      |
-| 筱晶哥哥 yilia 主题博客     | https://blog-yilia.xiaojingge.com     |
-| 筱晶哥哥 next 主题博客      | https://blog-next.xiaojingge.com      |
-| 筱晶哥哥 butterfly 主题博客 | https://blog-butterfly.xiaojingge.com |
-| 筱晶哥哥大学时期的导航页    | https://nav.xiaojingge.com            |
-| 筱晶哥哥中文变量命名工具    | https://varbook.xiaojingge.com        |
-| 筱晶哥哥开发运维备忘手册    | https://cheatsheet.xiaojingge.com     |
-| 筱晶哥哥 Linux 命令手册     | https://linux-cmd.xiaojingge.com      |
+| 个人网站                       | 地址                                  |
+| ------------------------------ | ------------------------------------- |
+| 筱晶哥哥主站                   | https://www.xiaojingge.com            |
+| 筱晶哥哥文档                   | https://doc.xiaojingge.com            |
+| 筱晶哥哥 IT 知识库             | https://knowledge.xiaojingge.com      |
+| 筱晶哥哥 yilia 主题博客        | https://blog-yilia.xiaojingge.com     |
+| 筱晶哥哥 next 主题博客         | https://blog-next.xiaojingge.com      |
+| 筱晶哥哥 butterfly 主题博客    | https://blog-butterfly.xiaojingge.com |
+| 筱晶哥哥大学时期的导航页       | https://nav.xiaojingge.com            |
+| 筱晶哥哥中文变量命名工具       | https://varbook.xiaojingge.com        |
+| 筱晶哥哥开发运维备忘手册       | https://cheatsheet.xiaojingge.com     |
+| 筱晶哥哥 Linux 命令手册        | https://linux-cmd.xiaojingge.com      |
+| 筱晶哥哥 regexr 正则表达式构建 | https://regexr.xiaojingge.com         |
 
 <style>
 
