@@ -248,6 +248,7 @@ export default defineConfig({
           { text: 'umami', link: 'umami' },
           { text: 'uptime-kuma', link: 'uptime-kuma' },
           { text: 'cloud-canal', link: 'cloud-canal' },
+          { text: 'gitlab', link: 'gitlab' },
         ],
       },
       {
