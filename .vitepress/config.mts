@@ -227,6 +227,8 @@ export default defineConfig({
         items: [
           { text: 'Git命令速查表', link: 'git' },
           { text: 'Idea命令速查表', link: 'idea' },
+          { text: '常用工具集', link: 'toolset' },
+          { text: '科技lion一键脚本', link: 'kejilion' },
         ],
       },
       {
