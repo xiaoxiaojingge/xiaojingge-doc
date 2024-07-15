@@ -45,6 +45,8 @@
 
 19、[思绪思维导图 Simple mind map 。一个简单&强大的 Web 思维导图。](https://github.com/wanglin2/mind-map)
 
+20、[Forest - 声明式 HTTP 客户端框架](https://gitee.com/dromara/forest)
+
 ## 文章记录
 
 [震惊 😱 超详细的 Docker 常用命令](https://juejin.cn/post/7245275769219203132)
