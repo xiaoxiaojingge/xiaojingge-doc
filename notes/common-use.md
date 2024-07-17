@@ -6,6 +6,8 @@
 
 [Maven 搜索](http://mvn.coderead.cn/)
 
+[Maven 中央仓库](https://central.sonatype.com/)
+
 [英语学习网站，爽学英语](https://earthworm.cuixueshe.com/)
 
 [在线代码截图工具，写博客必备](https://carbon.now.sh/)
@@ -25,6 +27,8 @@
 [在线对图片进行透明圆角处理 - 在线生成透明圆角图片、图标工具](https://www.pcccp.cn/yj/)
 
 [LKs - 良心到难以置信的网站推荐](https://lkssite.vip/)
+
+[代码小抄](https://www.codecopy.cn/search]
 
 ## 文件快传
 

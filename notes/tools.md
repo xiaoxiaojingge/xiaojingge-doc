@@ -48,7 +48,7 @@ https://getquicker.net/
 
 https://ditto-cp.sourceforge.io/
 
-### Listary 
+### Listary
 
 https://www.listary.com/
 
@@ -76,6 +76,12 @@ https://github.com/QL-Win/QuickLook
 
 https://whatpulse.org/
 
+### KK 录像机
+
+人人都会用的录屏软件，录教程 · 录网课 · 录游戏 · 录视频
+
+https://www.kklxj.com/
+
 ## 运维
 
 ### JumpServer
@@ -86,8 +92,14 @@ https://jumpserver.org/
 
 ### JarBoot
 
-Jarboot 是一个强大的Java进程管理、诊断的平台，可以在线管理、监控及诊断本地和远程的Java进程。
+Jarboot 是一个强大的 Java 进程管理、诊断的平台，可以在线管理、监控及诊断本地和远程的 Java 进程。
 
 https://gitee.com/majz0908/jarboot
 
 https://www.yuque.com/jarboot/
+
+### Xterminal
+
+不仅是强大的 SSH 工具，更提供本地控制台，以及更多即将推出的开发相关功能，让您专注于创造卓越的代码
+
+https://www.terminal.icu/
