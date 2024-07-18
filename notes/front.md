@@ -23,3 +23,11 @@ npm get registry
 # 全局切换官方镜像源
 npm config set registry https://www.npmjs.org
 ```
+
+## 常用网址
+
+[Node 官网](https://nodejs.cn/)
+
+[Element Plus 官网](https://element-plus.org/zh-CN/#/zh-CN)
+
+[Vue 官网](https://cn.vuejs.org/)
