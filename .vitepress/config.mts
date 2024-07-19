@@ -284,6 +284,7 @@ export default defineConfig({
           { text: '图床', link: 'draw-bed' },
           { text: 'ChatGPT', link: 'gpt' },
           { text: '前端', link: 'front' },
+          { text: '运维', link: 'operation-and-maintenance' },
           { text: '🐔场', link: 'vpn' },
         ],
       },
@@ -305,6 +306,12 @@ export default defineConfig({
           { text: 'dragonwell', link: 'dragonwell' },
           { text: 'varbook', link: 'varbook' },
         ],
+      },
+      {
+        text: 'SSL/TLS/HTTPS 证书',
+        collapsed: false,
+        base: '/ssl/',
+        items: [{ text: '使用 acme.sh 生成证书', link: 'acme.sh' }],
       },
     ],
 
