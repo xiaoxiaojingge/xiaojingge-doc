@@ -28,7 +28,9 @@
 
 [LKs - 良心到难以置信的网站推荐](https://lkssite.vip/)
 
-[代码小抄](https://www.codecopy.cn/search]
+[代码小抄](https://www.codecopy.cn/search)
+
+[洛雪音乐，一个免费&开源的音乐查找工具](https://lxmusic.toside.cn/)
 
 ## 文件快传
 
