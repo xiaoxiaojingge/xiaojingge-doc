@@ -229,6 +229,9 @@ export default defineConfig({
           { text: 'Idea命令速查表', link: 'idea' },
           { text: '常用工具集', link: 'toolset' },
           { text: '科技lion一键脚本', link: 'kejilion' },
+          { text: 'Windows curl.exe', link: 'windows-curl' },
+          { text: 'Windows tail.exe', link: 'windows-tail' },
+          { text: 'Windows tcping.exe', link: 'windows-tcping' },
         ],
       },
       {
