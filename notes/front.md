@@ -31,3 +31,7 @@ npm config set registry https://www.npmjs.org
 [Element Plus 官网](https://element-plus.org/zh-CN/#/zh-CN)
 
 [Vue 官网](https://cn.vuejs.org/)
+
+## 实用项目
+
+[vite + vue3 + ts 开箱即用现代开发模板 tov-template](https://gitee.com/dishait/tov-template)
