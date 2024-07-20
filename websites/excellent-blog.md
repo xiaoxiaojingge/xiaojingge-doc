@@ -4,7 +4,7 @@
 
 [黑海洋 - WIKI](https://blog.upx8.com/)
 
-[俊阳 IT 知识库](https://blog.fanjunyang.zone/)
+[俊阳 IT 知识库](https://blog.fjy.zone/)
 
 [科技 lion （有比较优秀的一键安装脚本）](https://blog.kejilion.pro/)
 
