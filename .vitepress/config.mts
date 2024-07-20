@@ -320,6 +320,7 @@ export default defineConfig({
                                     {text: 'gitlab', link: 'gitlab'},
                                     {text: 'gitlab-runner', link: 'gitlab-runner'},
                                     {text: 'jenkins', link: 'jenkins'},
+                                    {text: 'gcr.io/kaniko-project/executor', link: 'kaniko-project-executor'},
                                     {text: 'kibana', link: 'kibana'},
                                     {text: 'logstash', link: 'logstash'},
                                     {text: 'minio', link: 'minio'},
