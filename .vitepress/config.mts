@@ -194,15 +194,6 @@ export default defineConfig({
         items: [
           { text: '个人简介', link: '/guide/intro' },
           { text: '个人网址', link: '/guide/website' },
-          // 由于此处链接使用了其他域名，所以上方不能使用基础地址
-          // {
-          //   text: '赞助',
-          //   link: '',
-          // },
-          // {
-          //   text: '视频',
-          //   link: '',
-          // },
         ],
       },
       {
@@ -221,6 +212,12 @@ export default defineConfig({
         ],
       },
       {
+        text: '参考文档',
+        collapsed: false,
+        base: '/reference/',
+        items: [{ text: '十二要素宣言', link: '12factor' }],
+      },
+      {
         text: '工具',
         collapsed: false,
         base: '/tools/',
@@ -232,6 +229,9 @@ export default defineConfig({
           { text: 'Windows curl.exe', link: 'windows-curl' },
           { text: 'Windows tail.exe', link: 'windows-tail' },
           { text: 'Windows tcping.exe', link: 'windows-tcping' },
+          { text: 'Windows cports.exe', link: 'windows-cports' },
+          { text: 'Windows winsw.exe', link: 'windows-winsw' },
+          { text: '内网穿透frp', link: 'frp' },
         ],
       },
       {
@@ -248,6 +248,10 @@ export default defineConfig({
         collapsed: false,
         base: '/docker-compose/',
         items: [
+          { text: 'MySQL', link: 'mysql' },
+          { text: 'Redis', link: 'redis' },
+          { text: 'Nginx', link: 'nginx' },
+          { text: 'Minio', link: 'minio' },
           { text: 'nginx-proxy-manager', link: 'nginx-proxy-manager' },
           { text: 'nginx-web-ui', link: 'nginx-web-ui' },
           { text: 'umami', link: 'umami' },
@@ -264,10 +268,6 @@ export default defineConfig({
           { text: '程序开发常用网址', link: 'common-website' },
           { text: '大佬博客', link: 'excellent-blog' },
           { text: '开源镜像站点', link: 'mirror-site' },
-          {
-            text: '运维',
-            link: 'operation-and-maintenance',
-          },
           { text: 'Api平台', link: 'api' },
         ],
       },
@@ -284,7 +284,6 @@ export default defineConfig({
           { text: '图床', link: 'draw-bed' },
           { text: 'ChatGPT', link: 'gpt' },
           { text: '前端', link: 'front' },
-          { text: '运维', link: 'operation-and-maintenance' },
           { text: '🐔场', link: 'vpn' },
         ],
       },
@@ -305,6 +304,30 @@ export default defineConfig({
           { text: 'jarboot', link: 'jarboot' },
           { text: 'dragonwell', link: 'dragonwell' },
           { text: 'varbook', link: 'varbook' },
+        ],
+      },
+      {
+        text: '运维',
+        collapsed: false,
+        base: '/operation-and-maintenance/',
+        items: [
+          { text: '常用命令', link: 'common-command' },
+          { text: '网站', link: 'website' },
+          {
+            text: 'Docker',
+            base: '/operation-and-maintenance/docker/',
+            items: [{ text: 'Docker安装', link: 'docker-install' }],
+          },
+          {
+            text: 'Shell',
+            base: '/operation-and-maintenance/shell/',
+            items: [
+              { text: 'Jdk安装', link: 'jdk-install' },
+              { text: 'MySQL安装', link: 'mysql-install' },
+              { text: 'Nginx安装', link: 'nginx-install' },
+              { text: 'Redis安装', link: 'redis-install' },
+            ],
+          },
         ],
       },
       {
