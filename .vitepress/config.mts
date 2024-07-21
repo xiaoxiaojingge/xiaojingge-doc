@@ -323,6 +323,7 @@ export default defineConfig({
                                     {text: 'gcr.io/kaniko-project/executor', link: 'kaniko-project-executor'},
                                     {text: 'kibana', link: 'kibana'},
                                     {text: 'logstash', link: 'logstash'},
+                                    {text: 'maven', link: 'maven'},
                                     {text: 'minio', link: 'minio'},
                                     {text: 'mysql', link: 'mysql'},
                                     {text: 'nacos-server', link: 'nacos-server'},
