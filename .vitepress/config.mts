@@ -232,6 +232,7 @@ export default defineConfig({
                     {text: 'Windows cports.exe', link: 'windows-cports'},
                     {text: 'Windows winsw.exe', link: 'windows-winsw'},
                     {text: '内网穿透frp', link: 'frp'},
+                    {text: 'Idea-Jrebel热部署', link: 'idea-jrebel'},
                 ],
             },
             {
