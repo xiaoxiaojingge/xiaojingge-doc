@@ -38,3 +38,4 @@ target
 /package-lock.json
 
 /.vitepress/cache/
+/rebel.xml

@@ -365,7 +365,10 @@ export default defineConfig({
                 text: 'SSL/TLS/HTTPS 证书',
                 collapsed: false,
                 base: '/ssl/',
-                items: [{text: '使用 acme.sh 生成证书', link: 'acme.sh'}],
+                items: [
+                    {text: '使用 acme.sh 生成证书', link: 'acme.sh'},
+                    {text: 'httpsok', link: 'httpsok'}
+                ],
             },
         ],
 
