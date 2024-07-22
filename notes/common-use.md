@@ -32,6 +32,8 @@
 
 [洛雪音乐，一个免费&开源的音乐查找工具](https://lxmusic.toside.cn/)
 
+[异常教程，提供IDEA激活破解等](https://www.exception.site/)
+
 ## 文件快传
 
 [文叔叔](https://www.wenshushu.cn/)
