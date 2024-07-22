@@ -96,6 +96,7 @@ export default defineConfig({
     title: '筱晶哥哥',
     description: '花有重开日，人无再少年',
     lang: 'zh-CN',
+    ignoreDeadLinks: true,
     base: '/',
     head: [
         [
@@ -250,6 +251,7 @@ export default defineConfig({
                 collapsed: false,
                 base: '/docker-compose/',
                 items: [
+                    {text: '手记', link: 'index'},
                     {text: 'MySQL', link: 'mysql'},
                     {text: 'Redis', link: 'redis'},
                     {text: 'Nginx', link: 'nginx'},
