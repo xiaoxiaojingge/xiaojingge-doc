@@ -362,6 +362,13 @@ export default defineConfig({
                             {text: 'Redis安装', link: 'redis-install'},
                         ],
                     },
+                    {
+                        text: 'Kubernetes',
+                        base: '/operation-and-maintenance/kubernetes/',
+                        items: [
+                            {text: '常用', link: 'common-use'},
+                        ],
+                    },
                 ],
             },
             {
