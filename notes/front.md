@@ -32,6 +32,8 @@ npm config set registry https://www.npmjs.org
 
 [Vue 官网](https://cn.vuejs.org/)
 
+[BootCDN，稳定、快速、免费的前端开源项目 CDN 加速服务](https://www.bootcdn.cn/)
+
 ## 实用项目
 
 [vite + vue3 + ts 开箱即用现代开发模板 tov-template](https://gitee.com/dishait/tov-template)
