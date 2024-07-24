@@ -34,6 +34,8 @@
 
 [异常教程，提供IDEA激活破解等](https://www.exception.site/)
 
+[FinalShell 全版本 在线生成 专业版 离线激活码](https://www.aristore.top/posts/FinalShell/)
+
 ## 文件快传
 
 [文叔叔](https://www.wenshushu.cn/)
