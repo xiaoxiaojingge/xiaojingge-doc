@@ -55,6 +55,8 @@
 
 [如何在 Java 中读取超过内存大小的文件](https://www.didispace.com/article/richang/java-process-large-file.html)
 
+[EasyExcel导出自适应行高，列宽](https://blog.csdn.net/qq_51657546/article/details/138667869)
+
 ## 随笔
 
 ### java 有什么贝叶斯概率预测的工具库吗
