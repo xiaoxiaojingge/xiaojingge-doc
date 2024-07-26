@@ -33,3 +33,26 @@
 |      语雀    | [跳转](https://www.yuque.com/) |
 | 滴答清单 | [跳转](https://www.dida365.com/) |
 
+### 浏览器插件
+
+|   名称   |                 地址                  |
+| :------: | :-----------------------------------: |
+| 极简插件 | [跳转](https://chrome.zzzmh.cn/index) |
+| Crx搜搜  |   [跳转](https://www.crxsoso.com/)    |
+
+### 前端
+
+|   名称   |            地址             |
+| :------: | :-------------------------: |
+| 前端工坊 | https://www.javascript.fun/ |
+
+### 其他
+
+|                名称                 |           地址            |
+| :---------------------------------: | :-----------------------: |
+|             一起看地图              |  https://www.17ditu.com/  |
+|              情报社区               | https://x.threatbook.com/ |
+|              今日热榜               |   https://tophub.today/   |
+| MSDN, 我告诉你 - 做一个安静的工具站 | https://msdn.itellyou.cn/ |
+|              自由钢琴               | https://www.autopiano.cn/ |
+
