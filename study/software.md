@@ -1,27 +1,28 @@
 ## 后端常用
 
-|             名称              |                    下载地址                     |                             说明                             |
-| :---------------------------: | :---------------------------------------------: | :----------------------------------------------------------: |
-|         IntelliJ IDEA         |       https://www.jetbrains.com.cn/idea/        |                           编程IDE                            |
-|             Maven             |      https://maven.apache.org/download.cgi      |                         项目构建工具                         |
-|        Beyond Compare         |        https://www.scootersoftware.com/         |                  一个功能强大的文件比较工具                  |
-|            Typora             |              https://typoraio.cn/#              |                 一款 Markdown 编辑器和阅读器                 |
-|           Notepad3            |               http://notepad3.cn/               |   Notepad3 是一款快速且轻量级的基于 Scintilla 的文本编辑器   |
-|            ApiPost            |             https://www.apipost.cn/             |               API设计、调试、文档、自动化测试                |
-|            XShell             |        https://www.xshell.com/zh/xshell/        |                    业界最强大的SSH客户机                     |
-|             XFtp              |         https://www.xshell.com/zh/xftp/         |                    轻松地通过网络传输文件                    |
-|           小皮面板            |               https://www.xp.cn/                |              为服务器环境提供极佳配置的解决方案              |
-|              Git              |          https://git-scm.com/download           |                                                              |
-|          TortoiseGit          |        https://tortoisegit.org/download/        |               一个基于Git的图形化版本控制工具                |
-|            Navicat            |                                                 |                        数据库连接工具                        |
+|             名称              |                    下载地址                     |                              说明                               |
+| :---------------------------: | :---------------------------------------------: |:-------------------------------------------------------------:|
+|         IntelliJ IDEA         |       https://www.jetbrains.com.cn/idea/        |                             编程IDE                             |
+|             Maven             |      https://maven.apache.org/download.cgi      |                            项目构建工具                             |
+|        Beyond Compare         |        https://www.scootersoftware.com/         |                         一个功能强大的文件比较工具                         |
+|            Typora             |              https://typoraio.cn/#              |                      一款 Markdown 编辑器和阅读器                      |
+|           Notepad3            |               http://notepad3.cn/               |            Notepad3 是一款快速且轻量级的基于 Scintilla 的文本编辑器             |
+|            ApiPost            |             https://www.apipost.cn/             |                       API设计、调试、文档、自动化测试                       |
+|            XShell             |        https://www.xshell.com/zh/xshell/        |                         业界最强大的SSH客户机                          |
+|             XFtp              |         https://www.xshell.com/zh/xftp/         |                          轻松地通过网络传输文件                          |
+|           小皮面板            |               https://www.xp.cn/                |                    为服务器环境提供极佳配置的解决方案（有新版）                     |
+|              Git              |          https://git-scm.com/download           |                                                               |
+|          TortoiseGit          |        https://tortoisegit.org/download/        |                       一个基于Git的图形化版本控制工具                       |
+|            Navicat            |                                                 |                            数据库连接工具                            |
 | Another Redis Desktop Manager |            https://goanother.com/cn/            | 更快、更好、更稳定的Redis桌面(GUI)管理客户端，兼容Windows、Mac、Linux，性能出众，轻松加载海量键值 |
-|          S3 Browser           |             https://s3browser.com/              |                         Minio 客户端                         |
-|     Oracle VM VirtualBox      |           https://www.virtualbox.org/           |                     一款强大的虚拟化软件                     |
-|            Vagrant            | https://developer.hashicorp.com/vagrant/install |              一款用于管理虚拟机的命令行实用软件              |
-|        PDManer元数建模        |     http://www.pdmaner.com/download/latest      |           支持多操作系统和多数据库的数据库建模软件           |
-|           MobaXterm           |         https://mobaxterm.mobatek.net/          |   一款功能强大的Windows终端软件，可以访问各种远程网络工具    |
-|           WindTerm            |              https://windterm.org/              |                   新一代开源免费的终端工具                   |
-|       BFG Repo-Cleaner        |   https://rtyley.github.io/bfg-repo-cleaner/    |               清理在Git历史记录中不需要的数据                |
+|          S3 Browser           |             https://s3browser.com/              |                           Minio 客户端                           |
+|     Oracle VM VirtualBox      |           https://www.virtualbox.org/           |                          一款强大的虚拟化软件                           |
+|            Vagrant            | https://developer.hashicorp.com/vagrant/install |                       一款用于管理虚拟机的命令行实用软件                       |
+|        PDManer元数建模        |     http://www.pdmaner.com/download/latest      |                     支持多操作系统和多数据库的数据库建模软件                      |
+|           MobaXterm           |         https://mobaxterm.mobatek.net/          |                一款功能强大的Windows终端软件，可以访问各种远程网络工具                |
+|           WindTerm            |              https://windterm.org/              |                         新一代开源免费的终端工具                          |
+|       BFG Repo-Cleaner        |   https://rtyley.github.io/bfg-repo-cleaner/    |                       清理在Git历史记录中不需要的数据                       |
+|       nginxWebUI        |   https://www.nginxwebui.cn/index.html    |                         强大的nginx配置工具                          |
 
 ## 前端常用
 
@@ -52,6 +53,7 @@
 |      图吧工具箱       |                    https://www.tbtool.cn/                    |                   DIY爱好者的必备工具合集                    |
 |       FastCopy        |                     https://fastcopy.jp/                     |                 Windows上最快的复制/备份软件                 |
 |       Annotree        |                  https://www.annotree.com/                   |                 生成带注释的目录树，写作必备                 |
+|    方方格子工具箱     |                    http://www.ffcell.com/                    |             大型Excel插件，功能强大，支持DIY 。              |
 
 ## 笔记
 
