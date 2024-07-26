@@ -366,3 +366,9 @@ Gitee：https://gitee.com/aizuda/snail-job
 官网：https://www.cool-admin.com/
 
 Github地址：https://github.com/cool-team-official/cool-admin-vue
+
+### MongoPlus
+
+🔥🔥🔥使用MyBatisPlus的方式，优雅的操作MongoDB
+
+官网：https://www.mongoplus.cn/
