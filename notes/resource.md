@@ -28,6 +28,8 @@
 
 [i 资源库-你的网创第一站](https://www.iziyuanku.com/)
 
+[数字生活指南](https://nav.guidebook.top/)
+
 ## 技术类
 
 [Vim Cheat Sheet，Vim 命令清单](https://vim.rtorr.com/lang/zh_cn)
