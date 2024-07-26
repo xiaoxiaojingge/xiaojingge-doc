@@ -51,6 +51,7 @@
 |       LX Music        |                  https://docs.lxmusic.top/                   |                 一个免费&开源的音乐查找工具                  |
 |      图吧工具箱       |                    https://www.tbtool.cn/                    |                   DIY爱好者的必备工具合集                    |
 |       FastCopy        |                     https://fastcopy.jp/                     |                 Windows上最快的复制/备份软件                 |
+|       Annotree        |                  https://www.annotree.com/                   |                 生成带注释的目录树，写作必备                 |
 
 ## 笔记
 
