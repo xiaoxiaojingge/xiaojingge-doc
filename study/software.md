@@ -23,6 +23,7 @@
 |           WindTerm            |              https://windterm.org/              |                         新一代开源免费的终端工具                          |
 |       BFG Repo-Cleaner        |   https://rtyley.github.io/bfg-repo-cleaner/    |                       清理在Git历史记录中不需要的数据                       |
 |       nginxWebUI        |   https://www.nginxwebui.cn/index.html    |                         强大的nginx配置工具                          |
+| Miniconda | https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/ | 免费的包管理器和环境管理系统，是 Anaconda 分发版的一个更精简的版本 |
 
 ## 前端常用
 
