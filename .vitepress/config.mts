@@ -278,6 +278,7 @@ export default defineConfig({
                     {text: '开源镜像站点', link: 'mirror-site'},
                     {text: 'Api平台', link: 'api'},
                     {text: '杂用', link: 'miscellaneous'},
+                    {text: 'ai相关', link: 'ai'},
                 ],
             },
             {
