@@ -103,6 +103,8 @@ npm_mirror https://npmmirror.com/mirrors/npm/
 
 [前端进阶之旅](https://interview.poetries.top/)
 
+[框架语法特性对比-中文版](https://component-party.lainbo.com/)
+
 ## 实用项目
 
 [vite + vue3 + ts 开箱即用现代开发模板 tov-template](https://gitee.com/dishait/tov-template)
