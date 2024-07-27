@@ -246,6 +246,7 @@ export default defineConfig({
                 items: [
                     {text: '手记', link: 'notes'},
                     {text: '资源记录', link: 'resource'},
+                    {text: '开源相关', link: 'opensource'},
                 ],
             },
             {
