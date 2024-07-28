@@ -235,6 +235,7 @@ export default defineConfig({
                     {text: 'Windows tcping.exe', link: 'windows-tcping'},
                     {text: 'Windows cports.exe', link: 'windows-cports'},
                     {text: 'Windows winsw.exe', link: 'windows-winsw'},
+                    {text: 'Windows激活', link: 'window-activate'},
                     {text: '内网穿透frp', link: 'frp'},
                     {text: 'Idea-Jrebel热部署', link: 'idea-jrebel'},
                 ],
