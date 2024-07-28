@@ -378,3 +378,13 @@ Github：https://github.com/cool-team-official/cool-admin-vue
 平时有用的手动操作做成脚本，以便捷地使用，让开发的日常生活更轻松些。 💕
 
 Github：https://github.com/oldratlee/useful-scripts
+
+### Stirling PDF
+
+最全面的PDF处理开源项目，你也可以拥有一个本地的PDF处理大全，支持中文。
+
+Stirling PDF是一个可以用Docker在本地托管的基于Web的PDF处理工具。它的功能非常强大，你可以用它对PDF文件进行各种操作，包括拆分、合并、转换、重新组织、添加图像、旋转、压缩等。
+
+直接使用docker-compose部署即可。
+
+Github：https://github.com/Stirling-Tools/Stirling-PDF
