@@ -56,6 +56,7 @@
 |       Annotree        |                  https://www.annotree.com/                   |                                生成带注释的目录树，写作必备                                |
 |    方方格子工具箱     |                    http://www.ffcell.com/                    |                            大型Excel插件，功能强大，支持DIY。                             |
 |    OBS Studio    |                    https://obsproject.com/zh-cn                    |                            一款免费且开源的视频录制和直播软件。                             |
+| dev-sidecar | https://github.com/docmirror/dev-sidecar | 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速 |
 
 ## 笔记
 
