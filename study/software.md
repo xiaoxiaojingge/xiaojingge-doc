@@ -24,6 +24,8 @@
 |       BFG Repo-Cleaner        |   https://rtyley.github.io/bfg-repo-cleaner/    |                       清理在Git历史记录中不需要的数据                       |
 |       nginxWebUI        |   https://www.nginxwebui.cn/index.html    |                         强大的nginx配置工具                          |
 | Miniconda | https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/ | 免费的包管理器和环境管理系统，是 Anaconda 分发版的一个更精简的版本 |
+| Syncthing | https://github.com/syncthing/syncthing | 超级好用的免费开源文件同步工具 |
+| frp | https://github.com/fatedier/frp/releases | 最强开源内网穿透工具 |
 
 ## 前端常用
 
