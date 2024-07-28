@@ -292,6 +292,7 @@ export default defineConfig({
                 base: '/notes/',
                 items: [
                     {text: '晶哥常用', link: 'common-use'},
+                    {text: '开源项目收集', link: 'opensource'},
                     {text: '所见所闻', link: 'heard'},
                     {text: '工具资源', link: 'tools'},
                     {text: '晶哥哥的Vagrant配置', link: 'vagrant'},

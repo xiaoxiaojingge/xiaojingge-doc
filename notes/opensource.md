@@ -365,10 +365,16 @@ Gitee：https://gitee.com/aizuda/snail-job
 
 官网：https://www.cool-admin.com/
 
-Github地址：https://github.com/cool-team-official/cool-admin-vue
+Github：https://github.com/cool-team-official/cool-admin-vue
 
 ### MongoPlus
 
 🔥🔥🔥使用MyBatisPlus的方式，优雅的操作MongoDB
 
 官网：https://www.mongoplus.cn/
+
+### useful-scripts
+
+平时有用的手动操作做成脚本，以便捷地使用，让开发的日常生活更轻松些。 💕
+
+Github：https://github.com/oldratlee/useful-scripts
