@@ -1,0 +1,1 @@
+https://github.com/1c7/chinese-independent-developer

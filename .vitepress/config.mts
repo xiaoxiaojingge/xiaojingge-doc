@@ -219,7 +219,10 @@ export default defineConfig({
                 text: '参考文档',
                 collapsed: false,
                 base: '/reference/',
-                items: [{text: '十二要素宣言', link: '12factor'}],
+                items: [
+                    {text: '十二要素宣言', link: '12factor'},
+                    {text: '中国独立开发者项目列表', link: 'chinese-independent-developer'},
+                ],
             },
             {
                 text: '工具',
