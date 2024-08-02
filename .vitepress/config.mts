@@ -213,6 +213,13 @@ export default defineConfig({
                     {text: '常用软件', link: 'software'},
                     {text: '算法相关', link: 'algorithm'},
                     {text: '正则相关', link: 'regular'},
+                    {
+                        text: 'Python相关',
+                        base: '/study/python/',
+                        items: [
+                            {text: '环境', link: 'environment'},
+                        ],
+                    },
                 ],
             },
             {
