@@ -59,6 +59,7 @@
 |    方方格子工具箱     |                    http://www.ffcell.com/                    |                            大型Excel插件，功能强大，支持DIY。                             |
 |    OBS Studio    |                    https://obsproject.com/zh-cn                    |                            一款免费且开源的视频录制和直播软件。                             |
 | dev-sidecar | https://github.com/docmirror/dev-sidecar | 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速 |
+| 梦畅闹钟 | http://www.naozhong.net/ | 梦畅闹钟是一款免费的时间、日历管理软件，具有日历、定时关机、生日管理、倒计时、便签、快递查询、整点报时、语音报时、校对时间等功能。 |
 
 ## 笔记
 
