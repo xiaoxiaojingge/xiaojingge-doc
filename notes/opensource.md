@@ -388,3 +388,11 @@ Stirling PDF是一个可以用Docker在本地托管的基于Web的PDF处理工�
 直接使用docker-compose部署即可。
 
 Github：https://github.com/Stirling-Tools/Stirling-PDF
+
+### Textbus
+
+🚀 Textbus 是一个组件化、跨平台、数据驱动的富文本框架，支持使用 Viewfly、Vue、React 渲染富文本内容，并坚定的支持在线多人协作。你可以在 Textbus 中轻松创建出类似钉钉文档、石墨文档、飞书文档等完全自定义的编辑器。
+
+官方文档：https://textbus.io/
+
+Github：https://github.com/textbus/textbus
