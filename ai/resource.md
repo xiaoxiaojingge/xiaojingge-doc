@@ -12,12 +12,13 @@
 
 ## 模型库
 
-|          名称           |                        地址                         | 描述 |
-| :---------------------: | :-------------------------------------------------: | :--: |
-| 模型库 - 飞桨 AI Studio |  [跳转](https://aistudio.baidu.com/modelsoverview)  |      |
-|   Hugging Face 模型库   | [跳转](https://huggingface.co/models?sort=trending) |      |
-|        魔搭社区         |           [跳转](https://modelscope.cn/)            |      |
-|       CodeWithGPU       |        [跳转](https://www.codewithgpu.com/)         |      |
+|          名称           |                        地址                         |                          描述                           |
+| :---------------------: | :-------------------------------------------------: | :-----------------------------------------------------: |
+| 模型库 - 飞桨 AI Studio |  [跳转](https://aistudio.baidu.com/modelsoverview)  |                                                         |
+|   Hugging Face 模型库   | [跳转](https://huggingface.co/models?sort=trending) |                                                         |
+|        魔搭社区         |           [跳转](https://modelscope.cn/)            |                                                         |
+|       CodeWithGPU       |        [跳转](https://www.codewithgpu.com/)         |                                                         |
+|        HF-Mirror        |           [跳转](https://hf-mirror.com/)            | 用于镜像 [huggingface.co](https://huggingface.co/) 域名 |
 
 ## 镜像站
 
