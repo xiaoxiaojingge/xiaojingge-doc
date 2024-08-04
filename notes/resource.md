@@ -2,6 +2,8 @@
 
 [果核剥壳 - 还原软件的本质](https://www.ghxi.com/)
 
+[多啦咪新媒体创作导航](https://hao.yuenos.com/)
+
 [AI 工具集导航](https://ai-bot.cn/)
 
 [AIGC 工具导航 | 发现全球优质 AIGC 工具，与创作者一同成长](https://www.aigc.cn/)
