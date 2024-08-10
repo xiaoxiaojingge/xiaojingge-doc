@@ -48,6 +48,7 @@
 | 免费在线视频下载器 - SaveFrom.net              | https://zh.savefrom.net/226/           |
 | B 站下载工具，极简纯净                          | https://zhouql.vip/bilibili/           |
 | 哔哩哔哩(bilibili)视频解析下载 - 保存 B 站视频到手机、电脑 | https://snapany.com/zh/bilibili        |
+| 不求人视频解析，去水印等                          | https://parse.bqrdh.com/smart          |
 
 ## 技术类
 
