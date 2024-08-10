@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: '筱晶哥哥'
-  text: '花有重开日，人无再少年'
+  text: '社会的边角料'
   tagline:
   actions:
     - theme: brand
