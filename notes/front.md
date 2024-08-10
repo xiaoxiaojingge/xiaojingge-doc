@@ -115,3 +115,4 @@ npm_mirror https://npmmirror.com/mirrors/npm/
 |----------|-----------------------------------------------|
 | 字母/数字美化器 | https://symbol.bqrdh.com/alphanumeric-convert |
 | HTML实体符号 | https://symbol.bqrdh.com/html-entity          |
+| Emoji    | https://symbol.bqrdh.com/emoji                |
