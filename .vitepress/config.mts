@@ -279,6 +279,7 @@ export default defineConfig({
                     {text: 'cloud-canal', link: 'cloud-canal'},
                     {text: 'gitlab', link: 'gitlab'},
                     {text: 'xxl-job', link: 'xxl-job'},
+                    {text: 'dpanel', link: 'dpanel'},
                 ],
             },
             {
