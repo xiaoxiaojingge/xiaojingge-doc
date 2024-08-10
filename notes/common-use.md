@@ -22,6 +22,7 @@
 | 异常教程，提供IDEA激活破解等              | https://www.exception.site/                |
 | FinalShell 全版本 在线生成 专业版 离线激活码 | https://www.aristore.top/posts/FinalShell/ |
 | 目录树生成器 - 生成文件夹、压缩包的目录结构树      | https://online.bqrdh.com/folder/tree       |
+| Ascii字符画集，比如生成应用程序启动的banner   | https://symbol.bqrdh.com/ascii-art         |
 
 ## 文件快传
 
