@@ -8,6 +8,7 @@
 | 不求人代码生成器 （功能不限于代码生成，还有算法可视化、文件处理、ssl生成，数据查询等） | https://codegen.bqrdh.com/                   |
 | Maven 中央仓库                                    | https://central.sonatype.com/                |
 | 英语学习网站，爽学英语                                   | https://earthworm.cuixueshe.com/             |
+| 单词记忆训练 - Online                               | https://words-learner.bqrdh.com/             |
 | FIT2CLOUD飞致云开源社区                              | https://community.fit2cloud.com/#/home       |
 | 在线代码截图工具，写博客必备                                | https://carbon.now.sh/                       |
 | Hipdf：您的一站式免费在线 PDF 解决方案                      | https://www.hipdf.cn/                        |
