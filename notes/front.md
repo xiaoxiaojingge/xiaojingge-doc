@@ -1,14 +1,12 @@
 ## Echarts 图表
 
-[PPChart - 让图表更简单](http://ppchart.com/#/)
-
-[ISQQW.com - ECharts 图表集](https://www.isqqw.com/)
-
-[makeapie - echarts 社区图表可视化案例](https://www.makeapie.cn/echarts)
-
-[Made A Pie](https://madeapie.com/#/)
-
-[MCChart](https://echarts.zhangmuchen.top/#/index)
+| 名称                           | 网址                                      |
+|------------------------------|-----------------------------------------|
+| PPChart - 让图表更简单             | http://ppchart.com/#/                   |
+| ISQQW.com - ECharts 图表集      | https://www.isqqw.com/                  |
+| makeapie - echarts 社区图表可视化案例 | https://www.makeapie.cn/echarts         |
+| Made A Pie                   | https://madeapie.com/#/                 |
+| MCChart                      | https://echarts.zhangmuchen.top/#/index |
 
 ## NPM 镜像源查看和切换
 
@@ -41,10 +39,13 @@ node的版本管理器，可以方便地安装&切换不同版本的node。
 > 1. 开始 -> 设置 -> 应用，卸载 nodejs
 >
 > 2. 在文件目录中把node、npm相关文件都删掉
->
->    以下是我电脑中存在的目录：
->
->    - C:\Users\Administrator\AppData\Roaming
+     >
+     >    以下是我电脑中存在的目录：
+     >
+     >
+
+- C:\Users\Administrator\AppData\Roaming
+
 >
 > 3. 将相关的环境变量都删掉
 >
@@ -93,18 +94,23 @@ npm_mirror https://npmmirror.com/mirrors/npm/
 
 ## 常用网址
 
-[Node 官网](https://nodejs.cn/)
-
-[Element Plus 官网](https://element-plus.org/zh-CN/#/zh-CN)
-
-[Vue 官网](https://cn.vuejs.org/)
-
-[BootCDN，稳定、快速、免费的前端开源项目 CDN 加速服务](https://www.bootcdn.cn/)
-
-[前端进阶之旅](https://interview.poetries.top/)
-
-[框架语法特性对比-中文版](https://component-party.lainbo.com/)
+| 名称                                 | 网址                                     |
+|------------------------------------|----------------------------------------|
+| Node 官网                            | https://nodejs.cn/                     |
+| Element Plus 官网                    | https://element-plus.org/zh-CN/#/zh-CN |
+| Vue 官网                             | https://cn.vuejs.org/                  |
+| BootCDN - 稳定、快速、免费的前端开源项目 CDN 加速服务 | https://www.bootcdn.cn/                |
+| 前端进阶之旅                             | https://interview.poetries.top/        |
+| 框架语法特性对比-中文版                       | https://component-party.lainbo.com/    |
 
 ## 实用项目
 
-[vite + vue3 + ts 开箱即用现代开发模板 tov-template](https://gitee.com/dishait/tov-template)
+| 名称                                       | 网址                                     |
+|------------------------------------------|----------------------------------------|
+| vite + vue3 + ts 开箱即用现代开发模板 tov-template | https://gitee.com/dishait/tov-template |
+
+## 符号&&图标
+
+| 名称       | 网址                                            |
+|----------|-----------------------------------------------|
+| 字母/数字美化器 | https://symbol.bqrdh.com/alphanumeric-convert |
