@@ -21,6 +21,7 @@
 | 洛雪音乐，一个免费&开源的音乐查找工具           | https://lxmusic.toside.cn/                 |
 | 异常教程，提供IDEA激活破解等              | https://www.exception.site/                |
 | FinalShell 全版本 在线生成 专业版 离线激活码 | https://www.aristore.top/posts/FinalShell/ |
+| 目录树生成器 - 生成文件夹、压缩包的目录结构树      | https://online.bqrdh.com/folder/tree       |
 
 ## 文件快传
 
