@@ -78,6 +78,13 @@ index-url = https://pypi.tuna.tsinghua.edu.cn/simple/
 trusted-host = tsinghua.edu.cn
 ```
 
+# 安装Pytorch
+
+```bash
+# 根据自己的需求修改版本
+pip install torch==1.11.0+cu113 -f https://mirror.sjtu.edu.cn/pytorch-wheels/cu113/?mirror_intel_list
+```
+
 # 国内常用的镜像源
 
 清华大学开源软件镜像站：https://pypi.tuna.tsinghua.edu.cn/simple
