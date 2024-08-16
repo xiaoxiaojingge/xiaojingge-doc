@@ -64,7 +64,8 @@
 
 ## 笔记
 
-|  名称  |           下载地址            |
-|:----:|:-------------------------:|
-| 印象笔记 | https://www.yinxiang.com/ |
-| 滴答清单 | https://dida365.com/home  |
+|  名称   |           下载地址            |
+|:-----:|:-------------------------:|
+| 印象笔记  | https://www.yinxiang.com/ |
+| 滴答清单  | https://dida365.com/home  |
+| wolai |  https://www.wolai.com/   |
