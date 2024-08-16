@@ -19,6 +19,7 @@
 |        魔搭社区        |           [跳转](https://modelscope.cn/)            |                                                   |
 |    CodeWithGPU     |        [跳转](https://www.codewithgpu.com/)         |                                                   |
 |     HF-Mirror      |           [跳转](https://hf-mirror.com/)            | 用于镜像 [huggingface.co](https://huggingface.co/) 域名 |
+|        异型岛         |           [跳转](https://aliendao.cn/#/)            |                 HuggingFace资源下载网站                 |
 
 ## 镜像站
 
