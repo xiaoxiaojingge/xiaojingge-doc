@@ -211,6 +211,7 @@ export default defineConfig({
                     {text: '学习记录', link: 'record'},
                     {text: '常用文档', link: 'document'},
                     {text: '常用软件', link: 'software'},
+                    {text: 'IDEA插件', link: 'idea-plugin'},
                     {text: '算法相关', link: 'algorithm'},
                     {text: '正则相关', link: 'regular'},
                     {
