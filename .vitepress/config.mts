@@ -312,6 +312,7 @@ export default defineConfig({
                     {text: 'ChatGPT', link: 'gpt'},
                     {text: '前端', link: 'front'},
                     {text: '🐔场', link: 'vpn'},
+                    {text: '游戏娱乐', link: 'game'},
                 ],
             },
             {
