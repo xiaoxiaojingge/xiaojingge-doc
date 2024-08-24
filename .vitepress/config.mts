@@ -220,6 +220,8 @@ export default defineConfig({
                         base: '/study/python/',
                         items: [
                             {text: '环境', link: 'environment'},
+                            {text: '命令', link: 'command'},
+                            {text: '笔记', link: 'notes'},
                         ],
                     },
                 ],
