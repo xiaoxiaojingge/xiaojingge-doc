@@ -1,9 +1,18 @@
 # 命令
 
-## 导出项目依赖版本
+## 导出项目依赖版本(pip)
 
 ```bash
 pip list --format=freeze > requirements_python_3_11.txt
+```
+
+## 导出项目依赖版本(pipreqs)
+
+```bash
+# 安装pipreqs
+pip install pipreqs
+
+pipreqs ./ --encoding=utf8 --force --use-local
 ```
 
 ##  安装Pytorch
