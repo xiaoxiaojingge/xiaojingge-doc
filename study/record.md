@@ -16,6 +16,7 @@
 | [又要重装系统站](https://yyczxt.com/)                                                                                                      | 这是一个专业精简版Win系统镜像下载站                      |
 | [秒出ppt](https://10sppt.com/pptx/)                                                                                                   | AI快速生成PPT                                |
 | [装机猫-DIY电脑装机助手](http://www.diy888.cn/)                                                                                              | 装机猫-DIY电脑装机助手                            |
+| [极客之音](https://www.bmabk.com/)                                                                                                      | 一个专业性很强的编程技术网站                           |
 
 <style>
 ._project_personal table tr th:nth-child(1), ._project_personal table tr td:nth-child(1) {
