@@ -6,3 +6,4 @@
 | CF活动助手_网页版在线领_穿越火线活动一键领取 - 官方网站            | http://www.cfzhushou.com/           |
 | 3DM MOD站                                   | https://mod.3dmgame.com/            |
 | 师爷整合Mod                                    | https://www.kdocs.cn/l/ccRvpXfWWSuT |
+| WeMod - PC 游戏作弊、修改器                        | https://www.wemod.com/zh            |
