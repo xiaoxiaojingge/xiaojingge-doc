@@ -113,3 +113,11 @@ https://kimi.moonshot.cn/extension/download
 https://github.com/u-Sir/drag-to-preview
 
 选中链接或者选中文字内容拖动，即可在一个新的弹窗窗口中打开，便于预览
+
+## Todo List - 任务清单 
+
+一个简洁的本地化任务清单管理工具。
+
+ToDo List - 任务清单，一个本地化的任务清单管理工具
+
+无需登陆，安装插件后即可快速管理您的任务，用于管理您日常安排的任务事项。可跟随谷歌账号实现一键数据同步功能。
