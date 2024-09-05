@@ -17,6 +17,7 @@
 | [秒出ppt](https://10sppt.com/pptx/)                                                                                                   | AI快速生成PPT                                |
 | [装机猫-DIY电脑装机助手](http://www.diy888.cn/)                                                                                              | 装机猫-DIY电脑装机助手                            |
 | [极客之音](https://www.bmabk.com/)                                                                                                      | 一个专业性很强的编程技术网站                           |
+| [开源的SSL证书管理工具，可以帮助你申请SSL证书，自动续期SSL证书 - Certimate](https://docs.certimate.me/)                                                       | 一个专业性很强的编程技术网站                           |
 
 <style>
 ._project_personal table tr th:nth-child(1), ._project_personal table tr td:nth-child(1) {
