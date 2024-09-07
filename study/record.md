@@ -20,6 +20,7 @@
 | [开源的SSL证书管理工具，可以帮助你申请SSL证书，自动续期SSL证书 - Certimate](https://docs.certimate.me/)                                                       | 一个专业性很强的编程技术网站                           |
 | [国内无法访问下载 Docker 镜像的多种解决方案](https://www.upx8.com/4273)                                                                              | 一个专业性很强的编程技术网站                           |
 | [油猴中文网](https://bbs.tampermonkey.net.cn/)                                                                                           | 一个专业性很强的编程技术网站                           |
+| [GNU/Linux 更换系统软件源脚本及 Docker 安装脚本](https://linuxmirrors.cn/)                                                                        | 一个专业性很强的编程技术网站                           |
 
 <style>
 ._project_personal table tr th:nth-child(1), ._project_personal table tr td:nth-child(1) {
