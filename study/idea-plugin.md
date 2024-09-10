@@ -56,7 +56,8 @@ Cool Request是一个IDEA中的接口调试插件，新版本增加了统计任�
 
 ## AceJump
 
-AceJump 允许你快速地将光标导航到编辑器中可见的任何位置。只需按 “ctrl+;”，输入一个字符，然后输入与 Ace Jump 匹配的字符。如果屏幕上找不到匹配项，AceJump 将滚动到它能找到的下一个匹配项。
+AceJump 允许你快速地将光标导航到编辑器中可见的任何位置。只需按 “ctrl+;”，输入一个字符，然后输入与 Ace Jump
+匹配的字符。如果屏幕上找不到匹配项，AceJump 将滚动到它能找到的下一个匹配项。
 
 ## Java Bean to Json
 
@@ -73,3 +74,11 @@ idea中将Bean复制为json格式，便于接口调试使用
 ## Grep Console
 
 Grep Console 可以自定义控制台输出格式，对控制台中不同级别的日志设置成不同的颜色。
+
+## HotSwapHelper
+
+基于HotSwapAgent开发的idea插件，实现热部署功能，支持spring,hibernate,mybatis等框架，jrebel的免费替代
+
+测试已支持若依jeecg,mall,RuoYi-Vue-Plus等项目，支持xml和java文件热加载
+
+相比Jrebel支持mybatis添加删除xml，Mybatis实体类加减字段后也能映射好，还支持spring aop比如方法注解等生效
