@@ -225,6 +225,7 @@ export default defineConfig({
                             {text: '笔记', link: 'notes'},
                         ],
                     },
+                    {text: 'MySQL相关', link: 'mysql'},
                 ],
             },
             {
