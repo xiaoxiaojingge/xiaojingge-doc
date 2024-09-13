@@ -228,6 +228,7 @@ export default defineConfig({
                     {text: 'MySQL相关', link: 'mysql'},
                     {text: 'YUM', link: 'yum'},
                     {text: 'CentOS Firewalld 防火墙', link: 'firewalld'},
+                    {text: 'JDK版本与字节码版本对应关系', link: 'jdk-major'},
                 ],
             },
             {
