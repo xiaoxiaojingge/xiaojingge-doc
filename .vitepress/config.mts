@@ -405,7 +405,8 @@ export default defineConfig({
                 base: '/ssl/',
                 items: [
                     {text: '使用 acme.sh 生成证书', link: 'acme.sh'},
-                    {text: 'httpsok', link: 'httpsok'}
+                    {text: 'httpsok', link: 'httpsok'},
+                    {text: 'certimate', link: 'certimate'}
                 ],
             },
         ],
