@@ -212,6 +212,7 @@ export default defineConfig({
                     {text: '常用文档', link: 'document'},
                     {text: '常用软件', link: 'software'},
                     {text: 'IDEA插件', link: 'idea-plugin'},
+                    {text: 'IDEA配置', link: 'idea-config'},
                     {text: 'Chrome插件', link: 'chrome-plugin'},
                     {text: 'Docker', link: 'docker'},
                     {text: '算法相关', link: 'algorithm'},
