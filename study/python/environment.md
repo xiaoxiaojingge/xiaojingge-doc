@@ -92,3 +92,7 @@ trusted-host = tsinghua.edu.cn
 # CUDA下载
 
 https://developer.nvidia.com/cuda-toolkit-archive
+
+# cuDNN下载
+
+https://developer.download.nvidia.cn/compute/cudnn/redist/cudnn/windows-x86_64/
