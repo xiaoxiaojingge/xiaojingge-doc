@@ -89,10 +89,14 @@ trusted-host = tsinghua.edu.cn
 
 中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/
 
-# CUDA下载
+# CUDA和cuDNN安装
+
+https://blog.csdn.net/qq_37638909/article/details/139468713
+
+## CUDA下载
 
 https://developer.nvidia.com/cuda-toolkit-archive
 
-# cuDNN下载
+## cuDNN下载
 
 https://developer.download.nvidia.cn/compute/cudnn/redist/cudnn/windows-x86_64/
