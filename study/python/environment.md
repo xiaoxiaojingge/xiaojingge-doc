@@ -88,3 +88,7 @@ trusted-host = tsinghua.edu.cn
 豆瓣：https://pypi.douban.com/simple/
 
 中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/
+
+# CUDA下载
+
+https://developer.nvidia.com/cuda-toolkit-archive
