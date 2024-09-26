@@ -6,6 +6,25 @@
 
 Miniconda是 Anaconda 分发版的一个更精简的版本。
 
+## 安装Miniconda
+
+下载：https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/
+
+双击安装。
+
+配置环境变量：
+
+```bash
+# 比如我的安装路径为：D:\workspace_coding\environment\miniconda3
+
+# 在系统Path变量添加
+D:\workspace_coding\environment\miniconda3
+D:\workspace_coding\environment\miniconda3\Library\bin
+D:\workspace_coding\environment\miniconda3\Scripts
+```
+
+
+
 ## Conda配置清华镜像源
 
 ### 查看镜像源
