@@ -61,6 +61,8 @@
 |      dev-sidecar      |               https://github.com/docmirror/dev-sidecar                |     开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速     |
 |         梦畅闹钟          |                       http://www.naozhong.net/                        |      梦畅闹钟是一款免费的时间、日历管理软件，具有日历、定时关机、生日管理、倒计时、便签、快递查询、整点报时、语音报时、校对时间等功能。       |
 |        KeePass        |                         https://keepass.info/                         |     强大的密码管理工具，能帮助您安全的管理密码。你可以把所有的密码都放入一个带锁（密码）的数据库中，这样你就只用记住该密码(锁)就可以了。      |
+|        Tickeys        |                http://www.yingdev.com/projects/tickeys                |                                   键盘打字音效软件                                   |
+|        Keyviz         |              https://github.com/zetaloop/keyviz/releases              |                            Keyviz 是一个免费开源的按键可视化工具                            |
 
 ## 笔记
 
