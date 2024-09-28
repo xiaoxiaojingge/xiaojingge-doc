@@ -36,33 +36,33 @@
 
 ## 工具
 
-|          名称           |                                 下载地址                                  |                                      说明                                      |
-|:---------------------:|:---------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
-|        uTools         |                           https://u.tools/                            |                                  新一代效率工具平台                                   |
-|        Quicker        |                        https://getquicker.net/                        |                                   您的指尖工具箱                                    |
-|         Ditto         |                   https://ditto-cp.sourceforge.io/                    |                             一款剪切板软件,可以查看用户的剪切内容                              |
-|        Listary        |                       https://www.listary.com/                        |                         一款极其强大的 Windows 文件资源管理器增强工具                          |
-|       QuickLook       |                  https://github.com/QL-Win/QuickLook                  |                             一款开源、免费的文件快速预览辅助软件工具                             |
-|       WhatPulse       |                        https://whatpulse.org/                         |                       记录用户在计算机上的按键次数、鼠标点击次数、键盘使用时间等数据                        |
-|        KK 录像机         |                        https://www.kklxj.com/                         |                       人人都会用的录屏软件，录教程 · 录网课 · 录游戏 · 录视频                       |
-|   Geek Uninstaller    |                     https://geekuninstaller.com/                      |                              简单易用的Windows软件卸载工具                              |
-|       Unlocker        |                   https://unlocker.en.softonic.com/                   | Win 解除权限操作文件，在 win 系统中，有时想删除文件，却报你没有 xx 等权限或者该文件已经被其他用户锁定了，那么就可以使用如下的软件解决此问题 |
-|      SwitchHost       |             https://github.com/oldj/SwitchHosts/releases              |                               一个管理 hosts 文件的应用                               |
-| Neat Download Manager | https://github.com/Neatdownloadmanager/Neat-Download-Manager/releases |            一款跨平台的免费下载软件，支持多线程加速、网页视频嗅探、断点续传等功能，体积小巧，速度能挑战收费的 IDM             |
-|       PotPlayer       |                    http://potplayer.tv/?lang=zh_CN                    |                                   最强视频播放器                                    |
-|     Watt Toolkit      |                         https://steampp.net/                          |                            一个开源跨 平台的多功能 Steam 工具箱                            |
-|         AIMP          |                   https://www.aimp.ru/?do=download                    |                               AIMP是一款免费的音频播放器                                |
-|       LX Music        |                       https://docs.lxmusic.top/                       |                                一个免费&开源的音乐查找工具                                |
-|         图吧工具箱         |                        https://www.tbtool.cn/                         |                                DIY爱好者的必备工具合集                                 |
-|       FastCopy        |                         https://fastcopy.jp/                          |                              Windows上最快的复制/备份软件                              |
-|       Annotree        |                       https://www.annotree.com/                       |                                生成带注释的目录树，写作必备                                |
-|        方方格子工具箱        |                        http://www.ffcell.com/                         |                            大型Excel插件，功能强大，支持DIY。                             |
-|      OBS Studio       |                     https://obsproject.com/zh-cn                      |                              一款免费且开源的视频录制和直播软件。                              |
-|      dev-sidecar      |               https://github.com/docmirror/dev-sidecar                |     开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速     |
-|         梦畅闹钟          |                       http://www.naozhong.net/                        |      梦畅闹钟是一款免费的时间、日历管理软件，具有日历、定时关机、生日管理、倒计时、便签、快递查询、整点报时、语音报时、校对时间等功能。       |
-|        KeePass        |                         https://keepass.info/                         |     强大的密码管理工具，能帮助您安全的管理密码。你可以把所有的密码都放入一个带锁（密码）的数据库中，这样你就只用记住该密码(锁)就可以了。      |
-|        Tickeys        |                http://www.yingdev.com/projects/tickeys                |                                   键盘打字音效软件                                   |
-|        Keyviz         |              https://github.com/zetaloop/keyviz/releases              |                            Keyviz 是一个免费开源的按键可视化工具                            |
+|          名称           |                                  下载地址                                  |                                      说明                                      |
+|:---------------------:|:----------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+|        uTools         |                            https://u.tools/                            |                                  新一代效率工具平台                                   |
+|        Quicker        |                        https://getquicker.net/                         |                                   您的指尖工具箱                                    |
+|         Ditto         |                    https://ditto-cp.sourceforge.io/                    |                             一款剪切板软件,可以查看用户的剪切内容                              |
+|        Listary        |                        https://www.listary.com/                        |                         一款极其强大的 Windows 文件资源管理器增强工具                          |
+|       QuickLook       |                  https://github.com/QL-Win/QuickLook                   |                             一款开源、免费的文件快速预览辅助软件工具                             |
+|       WhatPulse       |                         https://whatpulse.org/                         |                       记录用户在计算机上的按键次数、鼠标点击次数、键盘使用时间等数据                        |
+|        KK 录像机         |                         https://www.kklxj.com/                         |                       人人都会用的录屏软件，录教程 · 录网课 · 录游戏 · 录视频                       |
+|   Geek Uninstaller    |                      https://geekuninstaller.com/                      |                              简单易用的Windows软件卸载工具                              |
+|       Unlocker        |                   https://unlocker.en.softonic.com/                    | Win 解除权限操作文件，在 win 系统中，有时想删除文件，却报你没有 xx 等权限或者该文件已经被其他用户锁定了，那么就可以使用如下的软件解决此问题 |
+|      SwitchHost       |              https://github.com/oldj/SwitchHosts/releases              |                               一个管理 hosts 文件的应用                               |
+| Neat Download Manager | https://github.com/Neatdownloadmanager/Neat-Download-Manager/releases  |            一款跨平台的免费下载软件，支持多线程加速、网页视频嗅探、断点续传等功能，体积小巧，速度能挑战收费的 IDM             |
+|       PotPlayer       |                    http://potplayer.tv/?lang=zh_CN                     |                                   最强视频播放器                                    |
+|     Watt Toolkit      |                          https://steampp.net/                          |                            一个开源跨 平台的多功能 Steam 工具箱                            |
+|         AIMP          |                    https://www.aimp.ru/?do=download                    |                               AIMP是一款免费的音频播放器                                |
+|       LX Music        |                       https://docs.lxmusic.top/                        |                                一个免费&开源的音乐查找工具                                |
+|         图吧工具箱         |                         https://www.tbtool.cn/                         |                                DIY爱好者的必备工具合集                                 |
+|       FastCopy        |                          https://fastcopy.jp/                          |                              Windows上最快的复制/备份软件                              |
+|       Annotree        |                       https://www.annotree.com/                        |                                生成带注释的目录树，写作必备                                |
+|        方方格子工具箱        |                         http://www.ffcell.com/                         |                            大型Excel插件，功能强大，支持DIY。                             |
+|      OBS Studio       | https://obsproject.com/zh-cn   <br/> https://www.obsworks.com/guanjia/ |                              一款免费且开源的视频录制和直播软件。                              |
+|      dev-sidecar      |                https://github.com/docmirror/dev-sidecar                |     开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速     |
+|         梦畅闹钟          |                        http://www.naozhong.net/                        |      梦畅闹钟是一款免费的时间、日历管理软件，具有日历、定时关机、生日管理、倒计时、便签、快递查询、整点报时、语音报时、校对时间等功能。       |
+|        KeePass        |                         https://keepass.info/                          |     强大的密码管理工具，能帮助您安全的管理密码。你可以把所有的密码都放入一个带锁（密码）的数据库中，这样你就只用记住该密码(锁)就可以了。      |
+|        Tickeys        |                http://www.yingdev.com/projects/tickeys                 |                                   键盘打字音效软件                                   |
+|        Keyviz         |              https://github.com/zetaloop/keyviz/releases               |                            Keyviz 是一个免费开源的按键可视化工具                            |
 
 ## 笔记
 
