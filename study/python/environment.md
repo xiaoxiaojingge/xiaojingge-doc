@@ -23,8 +23,6 @@ D:\workspace_coding\environment\miniconda3\Library\bin
 D:\workspace_coding\environment\miniconda3\Scripts
 ```
 
-
-
 ## Conda配置清华镜像源
 
 ### 查看镜像源
@@ -100,6 +98,8 @@ trusted-host = tsinghua.edu.cn
 
 # 国内常用的镜像源
 
+[参考地址](https://www.jianshu.com/p/e22fe65530bb)
+
 清华大学开源软件镜像站：https://pypi.tuna.tsinghua.edu.cn/simple
 
 阿里云开源镜像站：https://mirrors.aliyun.com/pypi/simple/
@@ -107,6 +107,34 @@ trusted-host = tsinghua.edu.cn
 豆瓣：https://pypi.douban.com/simple/
 
 中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/
+
+上海交通大学： https://mirror.sjtu.edu.cn
+
+校园网联合镜像站：https://mirrors.cernet.edu.cn/list
+
+北京大学：https://mirrors.pku.edu.cn/Mirrors
+
+南阳理工学院开源软件镜像站：https://mirror.nyist.edu.cn/
+
+齐鲁工业大学开源软件镜像站：https://mirrors.qlu.edu.cn/
+
+南大：https://mirrors.nju.edu.cn/
+
+西安交通大学软件镜像站：https://mirrors.xjtu.edu.cn/
+
+浙江大学开源软件镜像站：https://mirrors.zju.edu.cn/
+
+南方科技大学开源镜像站：https://mirrors.sustech.edu.cn/
+
+淘宝 CNPM Binaries Mirror：https://registry.npmmirror.com/binary.html
+
+ISCAS 中国科学院软件研究所：https://mirror.iscas.ac.cn/
+
+网易开源镜像站：https://mirrors.163.com/
+
+山东大学镜像站：https://mirrors.sdu.edu.cn/index.html#/mirror
+
+重庆大学开源软件镜像站：https://mirrors.cqu.edu.cn/#/
 
 # CUDA和cuDNN安装
 
