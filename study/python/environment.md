@@ -147,3 +147,81 @@ https://developer.nvidia.com/cuda-toolkit-archive
 ## cuDNN下载
 
 https://developer.download.nvidia.cn/compute/cudnn/redist/cudnn/windows-x86_64/
+
+# 国内开源镜像站点汇总
+
+[参考地址](https://blog.csdn.net/hbwhypw/article/details/114657760)
+
+## 站点版
+
+### ① 企业站
+
+网易：https://mirrors.163.com/
+
+搜狐：http://mirrors.sohu.com/
+
+阿里云：https://mirrors.aliyun.com
+
+首都在线科技股份有限公司（英文名Capital Online Data Service）：http://mirrors.yun-idc.com/
+
+华为云：https://mirrors.huaweicloud.com/
+
+腾讯云：https://mirrors.cloud.tencent.com/
+
+平安云：https://mirrors.pinganyun.com/
+
+开源社/Azure中国：http://mirror.azure.cn/
+
+OpenTuna/AWS中国：https://opentuna.cn/
+
+### ② 教育站
+
+中国科技大学：https://mirrors.ustc.edu.cn/
+
+清华大学：https://mirrors.tuna.tsinghua.edu.cn/
+
+北京外国语大学：http://mirrors.bfsu.edu.cn/
+
+北京交通大学：https://mirror.bjtu.edu.cn/
+
+兰州大学：http://mirror.lzu.edu.cn/
+
+上海交通大学：http://ftp.sjtu.edu.cn/
+
+大连东软信息学院：http://mirrors.neusoft.edu.cn/
+
+浙江大学：http://mirrors.zju.edu.cn/
+
+重庆大学：http://mirrors.cqu.edu.cn/
+
+南阳理工学院：http://mirror.nyist.edu.cn/
+
+中科院高能物理研究所：http://mirror.ihep.ac.cn/，http://mir-cern.ihep.ac.cn/
+
+西北农林科技大学：https://mirrors.nwafu.edu.cn/，https://mirrors.nwsuaf.edu.cn/
+
+大连理工大学：http://mirror.dlut.edu.cn/
+
+山东女子学院：http://mirrors.sdwu.edu.cn/
+
+西安交通大学：https://mirrors.xjtu.edu.cn/
+
+上海交通大学SJTUG：https://mirrors.sjtug.sjtu.edu.cn/
+
+南京邮电大学：http://mirrors.njupt.edu.cn/
+
+南京大学：http://mirrors.nju.edu.cn/
+
+同济大学：https://mirrors.tongji.edu.cn/
+
+华南农业大学：https://mirrors.scau.edu.cn/
+
+东莞理工学院：https://mirrors.dgut.edu.cn/
+
+重庆邮电大学：http://mirrors.cqupt.edu.cn/  ，https://mirror.redrock.team/
+
+云南大学：http://mirrors.ynuosa.org/index/（镜像站列表）,http://pypi.opensource.ynu.edu.cn/（收录pypi）
+
+哈尔滨工业大学：https://mirrors.hit.edu.cn/
+
+南方科技大学：https://mirrors.sustech.edu.cn/
