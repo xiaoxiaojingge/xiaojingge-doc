@@ -6,7 +6,7 @@
 
 Miniconda是 Anaconda 分发版的一个更精简的版本。
 
-## 安装Miniconda
+## windows安装Miniconda
 
 下载：https://mirrors.tuna.tsinghua.edu.cn/anaconda/miniconda/
 
@@ -22,6 +22,47 @@ D:\workspace_coding\environment\miniconda3
 D:\workspace_coding\environment\miniconda3\Library\bin
 D:\workspace_coding\environment\miniconda3\Scripts
 ```
+
+## Linux安装Miniconda
+
+```bash
+# 下载安装脚本，从此处获取：https://mirror.sjtu.edu.cn/
+wget https://s3.jcloud.sjtu.edu.cn/899a892efef34b1b944a19981040f55b-oss01/anaconda/miniconda/Miniconda3-latest-Linux-x86_64.sh
+# 赋予执行权限
+chmod +x Miniconda3-latest-Linux-x86_64.sh
+# 执行
+bash Miniconda3-latest-Linux-x86_64.sh
+# 刷新环境变量
+source ~/.bashrc
+# 查看版本
+conda --version
+```
+
+如果wget下载慢，使用阿里DNS
+
+1. 编辑 `/etc/resolv.conf` 文件：
+
+   ```bash
+   sudo nano /etc/resolv.conf
+   ```
+
+2. 添加以下内容：
+
+   ```bash
+   nameserver 223.6.6.6
+   nameserver 223.5.5.5
+   ```
+
+3. 保存并退出。
+
+   > 保存文件
+   >
+   > 1. **按下 `Ctrl + O`**（字母 "O" 的大写），这会提示你确认保存文件。
+   > 2. **按下 `Enter`** 键，确认文件名（通常默认是 `/etc/resolv.conf`）。
+   >
+   > 退出编辑器
+   >
+   > 1. **按下 `Ctrl + X`**，这将退出 `nano` 编辑器。
 
 ## Conda配置清华镜像源
 
@@ -71,7 +112,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
 pip install some-package -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
-### 永久配置
+### 永久配置-windows
 
 命令如下（示例）：
 
@@ -94,6 +135,24 @@ index-url = https://pypi.tuna.tsinghua.edu.cn/simple/
 
 [install]
 trusted-host = tsinghua.edu.cn
+```
+
+### 永久配置-linux
+
+```bash
+mkdir -p ~/.pip
+
+vim ~/.pip/pip.conf
+
+# 写入如下内容
+
+[global]
+index-url = https://pypi.tuna.tsinghua.edu.cn/simple
+[install]
+trusted-host = https://pypi.tuna.tsinghua.edu.cn
+
+# 验证
+pip config list
 ```
 
 # 国内常用的镜像源
