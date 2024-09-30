@@ -29,3 +29,15 @@ bash <(curl -sSL https://linuxmirrors.cn/main.sh)
 bash <(curl -sSL https://linuxmirrors.cn/docker.sh)
 ```
 
+### jar包指定外部配置文件运行
+
+```bash
+# `application.yml`: 和jar包在同一目录下的外部配置文件
+java -jar -Dspring.config.location=application.yml ./app.jar
+# 或者
+java -jar --spring.config.local=application.yml ./app.jar
+
+# `classpath:application.yml`: jar包内部配置文件
+java -jar -Dspring.config.location=classpath:application.yml ./app.jar
+```
+
