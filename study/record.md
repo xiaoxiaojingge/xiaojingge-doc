@@ -25,6 +25,7 @@
 | [Office Tool Plus](https://otp.landian.vip/zh-cn/)                                                                                  | Office Tool Plus 基于 Office 部署工具 (ODT) 打造，可以很轻松地部署 Office。 |
 | [KMS](https://kms.cx/)                                                                                                              | 一键激活 windows/office                                       |
 | [LocalSend](https://localsend.org/zh-CN#/)                                                                                          | 将文件分享到附近的设备。                                              |
+| [zTasker](https://www.everauto.net/)                                                                                                | 定时、热键、计划、自动化任务                                            |
 
 <style>
 ._project_personal table tr th:nth-child(1), ._project_personal table tr td:nth-child(1) {
