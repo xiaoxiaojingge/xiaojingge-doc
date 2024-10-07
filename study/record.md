@@ -27,6 +27,28 @@
 | [LocalSend](https://localsend.org/zh-CN#/)                                                                                          | 将文件分享到附近的设备。                                              |
 | [zTasker](https://www.everauto.net/)                                                                                                | 定时、热键、计划、自动化任务                                            |
 
+## 资源网站或者工具网站收集
+
+### 第一期
+
+Liveportrait：https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait
+
+KREA：https://www.krea.ai/home
+
+Magnific AI：https://magnific.ai/
+
+Convertio：https://convertio.co/zh/
+
+NotebookLM：https://notebooklm.google.com/
+
+Batch Tools：https://images.batchtool.com/zh
+
+AI Comic Factory：https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory
+
+DeepLearning：https://www.deeplearning.ai/courses/
+
+
+
 <style>
 ._project_personal table tr th:nth-child(1), ._project_personal table tr td:nth-child(1) {
     width: 310px;
