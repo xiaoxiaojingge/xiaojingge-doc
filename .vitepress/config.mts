@@ -258,6 +258,7 @@ export default defineConfig({
                     {text: 'Windows激活', link: 'window-activate'},
                     {text: '内网穿透frp', link: 'frp'},
                     {text: 'Idea-Jrebel热部署', link: 'idea-jrebel'},
+                    {text: '批量重命名工具renamer', link: 'renamer'},
                 ],
             },
             {
