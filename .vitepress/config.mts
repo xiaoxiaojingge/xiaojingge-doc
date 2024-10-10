@@ -413,7 +413,7 @@ export default defineConfig({
                 ],
             },
             {
-                text: '面试',
+                text: '🚨面试',
                 collapsed: false,
                 base: '/interview/',
                 items: [
@@ -421,19 +421,9 @@ export default defineConfig({
                     {text: '✅项目介绍如何准备', link: '项目介绍如何准备'},
                     {text: '✅简历指导', link: '简历指导'},
                     {
-                        text: '场景题目',
+                        text: '🎉场景题目',
                         base: '/interview/scene/',
-                        items: [{text: 'Docker安装', link: 'docker-install'}],
-                    },
-                    {
-                        text: 'Shell',
-                        base: '/operation-and-maintenance/shell/',
-                        items: [
-                            {text: 'Jdk安装', link: 'jdk-install'},
-                            {text: 'MySQL安装', link: 'mysql-install'},
-                            {text: 'Nginx安装', link: 'nginx-install'},
-                            {text: 'Redis安装', link: 'redis-install'},
-                        ],
+                        items: [{text: '✅订单到期关闭如何实现', link: '订单到期关闭如何实现'}],
                     },
                 ],
             },
