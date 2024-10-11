@@ -425,6 +425,11 @@ export default defineConfig({
                         base: '/interview/scene/',
                         items: [{text: '✅订单到期关闭如何实现', link: '订单到期关闭如何实现'}],
                     },
+                    {
+                        text: '🎉项目难点&亮点',
+                        base: '/interview/project-difficulties/',
+                        items: [{text: '你的项目有哪些难点&亮点？', link: '项目难点和亮点'}],
+                    },
                 ],
             },
 
