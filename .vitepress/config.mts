@@ -435,6 +435,11 @@ export default defineConfig({
                         base: '/interview/java-base/',
                         items: [{text: '✅面向对象的五大基本原则', link: '面向对象的五大基本原则'}],
                     },
+                    {
+                        text: '🎉Java并发',
+                        base: '/interview/java-concurrency/',
+                        items: [{text: '✅什么是多线程中的上下文切换', link: '什么是多线程中的上下文切换'}],
+                    },
                 ],
             },
 
