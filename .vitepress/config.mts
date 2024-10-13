@@ -136,6 +136,11 @@ export default defineConfig({
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             {
+                text: '免责声明',
+                link: '/免责声明',
+                activeMatch: `^/(guide|style-guide|cookbook|examples)/`,
+            },
+            {
                 text: '个人简介',
                 link: '/guide/intro',
                 activeMatch: `^/(guide|style-guide|cookbook|examples)/`,
