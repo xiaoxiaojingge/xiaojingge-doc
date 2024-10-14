@@ -448,6 +448,10 @@ export default defineConfig({
                                 text: '✅使用CompletableFuture完成并发编排，提升接口性能',
                                 link: '使用CompletableFuture完成并发编排，提升接口性能',
                             },
+                            {
+                                text: '✅基于SpringEvent，实现同步转异步，解决定时任务扫表导致数据库连接池不够的问题',
+                                link: '基于SpringEvent，实现同步转异步，解决定时任务扫表导致数据库连接池不够的问题',
+                            },
                         ],
                     },
                     {
