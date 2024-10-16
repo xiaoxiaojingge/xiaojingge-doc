@@ -456,6 +456,10 @@ export default defineConfig({
                                 text: '✅通过采用“一锁二判三更新”方式设计接口幂等，解决支付单重复支付的问题',
                                 link: '通过采用“一锁二判三更新”方式设计接口幂等，解决支付单重复支付的问题',
                             },
+                            {
+                                text: '✅基于TTL 解决线程池中 ThreadLocal 线程无法共享的问题',
+                                link: '基于TTL解决线程池中ThreadLocal线程无法共享的问题',
+                            },
                         ],
                     },
                     {
