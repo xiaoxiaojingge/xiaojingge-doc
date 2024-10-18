@@ -460,6 +460,10 @@ export default defineConfig({
                                 text: '✅基于TTL 解决线程池中 ThreadLocal 线程无法共享的问题',
                                 link: '基于TTL解决线程池中ThreadLocal线程无法共享的问题',
                             },
+                            {
+                                text: '✅基于Redis的zset实现秒级排行榜',
+                                link: '基于Redis的zset实现秒级排行榜',
+                            },
                         ],
                     },
                     {
