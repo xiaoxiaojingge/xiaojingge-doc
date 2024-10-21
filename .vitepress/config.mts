@@ -259,6 +259,7 @@ export default defineConfig({
                     {text: '内网穿透frp', link: 'frp'},
                     {text: 'Idea-Jrebel热部署', link: 'idea-jrebel'},
                     {text: '批量重命名工具renamer', link: 'renamer'},
+                    {text: 'yuque-dl 语雀知识库下载', link: 'yuque-dl'},
                 ],
             },
             {
