@@ -26,7 +26,6 @@
 | [KMS](https://kms.cx/)                                                                                                              | 一键激活 windows/office                                       |
 | [LocalSend](https://localsend.org/zh-CN#/)                                                                                          | 将文件分享到附近的设备。                                              |
 | [zTasker](https://www.everauto.net/)                                                                                                | 定时、热键、计划、自动化任务                                            |
-
 ## 资源网站或者工具网站收集
 
 ### 第一期
