@@ -105,7 +105,7 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
 ```properties
 [baseos]
 name=CentOS Stream $releasever - BaseOS
-baseurl=https://mirrors.aliyun.com/centos-vault$stream/BaseOS/$basearch/os/
+baseurl=https://mirrors.aliyun.com/centos-vault/$stream/BaseOS/$basearch/os/
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-centosofficial
 gpgcheck=1
 repo_gpgcheck=0
