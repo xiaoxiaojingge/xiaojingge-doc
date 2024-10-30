@@ -61,21 +61,22 @@
 
 ## 技术类
 
-| 名称                 | 网址                                           |
-|--------------------|----------------------------------------------|
-| CS-Notes           | http://www.cyc2018.xyz/                      |
-| Advanced-Java      | https://doocs.gitee.io/advanced-java/#/      |
-| JavaGuide          | https://javaguide.cn/                        |
-| source-code-hunter | https://doocs.gitee.io/source-code-hunter/#/ |
-| r2coding           | https://www.r2coding.com/#/                  |
-| Java 程序员进阶之路       | https://tobebetterjavaer.com/#/              |
-| bugstack 虫洞栈       | https://bugstack.cn/                         |
-| javacore           | https://dunwu.github.io/javacore/#/          |
-| Java 全栈知识体系        | https://www.pdai.tech/                       |
-| 算法题解               | https://doocs.github.io/leetcode/#/          |
-| Java 知识图谱          | https://www.altitude.xin/blog/home/#/        |
-| 小林 coding          | https://www.xiaolincoding.com/               |
-| 莫烦 Python 网        | https://mofanpy.com/                         |
+| 名称                    | 网址                                           |
+|-----------------------|----------------------------------------------|
+| CS-Notes              | http://www.cyc2018.xyz/                      |
+| Advanced-Java         | https://doocs.gitee.io/advanced-java/#/      |
+| JavaGuide             | https://javaguide.cn/                        |
+| source-code-hunter    | https://doocs.gitee.io/source-code-hunter/#/ |
+| r2coding              | https://www.r2coding.com/#/                  |
+| Java 程序员进阶之路          | https://tobebetterjavaer.com/#/              |
+| bugstack 虫洞栈          | https://bugstack.cn/                         |
+| javacore              | https://dunwu.github.io/javacore/#/          |
+| Java 全栈知识体系           | https://www.pdai.tech/                       |
+| 算法题解                  | https://doocs.github.io/leetcode/#/          |
+| Java 知识图谱             | https://www.altitude.xin/blog/home/#/        |
+| 小林 coding             | https://www.xiaolincoding.com/               |
+| 莫烦 Python 网           | https://mofanpy.com/                         |
+| 拿个offer开源12306和短链接等项目 | https://nageoffer.com/                       |
 
 ## 生活类
 
