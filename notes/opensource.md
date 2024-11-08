@@ -396,3 +396,11 @@ Github：https://github.com/Stirling-Tools/Stirling-PDF
 官方文档：https://textbus.io/
 
 Github：https://github.com/textbus/textbus
+
+### watermark-js-plus
+
+高级的水印插件，这是一个基于 canvas 画布的水印库，作用于浏览器中。
+
+官方文档：https://zhensherlock.github.io/watermark-js-plus/zh/
+
+Github：https://github.com/zhensherlock/watermark-js-plus
