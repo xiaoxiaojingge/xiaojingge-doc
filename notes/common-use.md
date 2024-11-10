@@ -31,6 +31,7 @@
 | 目录树生成器 - 生成文件夹、压缩包的目录结构树                      | https://online.bqrdh.com/folder/tree         |
 | Ascii字符画集，比如生成应用程序启动的banner                   | https://symbol.bqrdh.com/ascii-art           |
 | 互联网协议大全                                       | https://protocol.bqrdh.com/http/content-type |
+| VUE后台管理系统模板项目集成                               | http://vue.easydo.work/                      |
 
 ## 文件快传
 
