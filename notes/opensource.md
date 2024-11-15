@@ -404,3 +404,9 @@ Github：https://github.com/textbus/textbus
 官方文档：https://zhensherlock.github.io/watermark-js-plus/zh/
 
 Github：https://github.com/zhensherlock/watermark-js-plus
+
+### tianai-captcha
+
+开源行为验证码
+
+Gitee：https://gitee.com/dromara/tianai-captcha
