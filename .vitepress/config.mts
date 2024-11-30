@@ -326,7 +326,12 @@ export default defineConfig({
                     {text: '资源记录', link: 'resource'},
                     {text: '图床', link: 'draw-bed'},
                     {text: 'ChatGPT', link: 'gpt'},
-                    {text: '前端', link: 'front'},
+                    {
+                        text: '前端', collapsed: false, base: '/notes/front/', items: [
+                            {text: '杂用', link: 'other'},
+                            {text: 'ElementPlus离线文档搭建', link: 'element-plus'},
+                        ]
+                    },
                     {text: '🐔场', link: 'vpn'},
                     {text: '游戏娱乐', link: 'game'},
                 ],
