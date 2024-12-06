@@ -266,6 +266,7 @@ export default defineConfig({
                     {text: '批量重命名工具renamer', link: 'renamer'},
                     {text: 'yuque-dl 语雀知识库下载', link: 'yuque-dl'},
                     {text: 'Docker镜像加速', link: 'docker-accelerate'},
+                    {text: 'JDK 版本与字节码', link: 'jdk-major'},
                 ],
             },
             {
