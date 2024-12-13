@@ -216,6 +216,8 @@ export default defineConfig({
                     {text: '学习记录', link: 'record'},
                     {text: '常用文档', link: 'document'},
                     {text: '常用软件', link: 'software'},
+                    {text: '解决方案', link: 'solutions'},
+                    {text: 'Github加速', link: 'fast-github'},
                     {text: 'IDEA插件', link: 'idea-plugin'},
                     {text: 'IDEA配置', link: 'idea-config'},
                     {text: 'Chrome插件', link: 'chrome-plugin'},
@@ -329,8 +331,16 @@ export default defineConfig({
                     {text: 'ChatGPT', link: 'gpt'},
                     {
                         text: '前端', collapsed: false, base: '/notes/front/', items: [
-                            {text: '杂用', link: 'other'},
+                            {text: '常用网站', link: 'common-sites'},
+                            {text: 'npm镜像', link: 'npm-mirror'},
+                            {text: 'nvm管理node版本', link: 'nvm'},
+                            {text: '实用项目&库', link: 'practical-projects'},
+                            {text: 'echarts图表', link: 'echarts'},
+                            {text: '符号&图标', link: 'icon'},
                             {text: 'ElementPlus离线文档搭建', link: 'element-plus'},
+                            {text: 'Vue表格拖拽排序', link: 'vue-table-sort'},
+                            {text: 'Vue中与子iframe的html交互', link: 'vue-iframe'},
+                            {text: 'Svg转Image', link: 'svg-to-image'},
                         ]
                     },
                     {text: '🐔场', link: 'vpn'},
