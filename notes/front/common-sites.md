@@ -8,3 +8,4 @@
 | BootCDN - 稳定、快速、免费的前端开源项目 CDN 加速服务 | https://www.bootcdn.cn/                |
 | 前端进阶之旅                             | https://interview.poetries.top/        |
 | 框架语法特性对比-中文版                       | https://component-party.lainbo.com/    |
+| Pinia中文文档                          | https://pinia.web3doc.top/             |
