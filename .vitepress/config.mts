@@ -216,6 +216,7 @@ export default defineConfig({
                     {text: '学习记录', link: 'record'},
                     {text: '常用文档', link: 'document'},
                     {text: '常用软件', link: 'software'},
+                    {text: '在线教程和文档', link: 'tutorial-doc'},
                     {text: '解决方案', link: 'solutions'},
                     {text: 'Github加速', link: 'fast-github'},
                     {text: 'IDEA插件', link: 'idea-plugin'},
