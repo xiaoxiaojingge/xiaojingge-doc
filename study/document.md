@@ -8,3 +8,4 @@
 | MyBatisCodeHelper-Pro（IDEA 插件）使用文档 |               [跳转](http://118.24.53.162/#/)                |
 |             Nacos 官方文档             |                  [跳转](https://nacos.io/)                   |
 |    多数据源 dynamic-datasource 使用文档    | [跳转](https://www.kancloud.cn/tracy5546/dynamic-datasource) |
+|           Sa-Token 官方文档            |            [跳转](https://sa-token.cc/doc.html#/)            |
