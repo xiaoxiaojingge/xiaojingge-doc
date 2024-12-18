@@ -10,3 +10,4 @@
 | 框架语法特性对比-中文版                       | https://component-party.lainbo.com/    |
 | Pinia中文文档                          | https://pinia.web3doc.top/             |
 | Naive UI 官方文档                      | https://www.naiveui.com/zh-CN/os-theme |                              | https://www.naiveui.com/zh-CN/os-theme             |
+| arco.design 组件库 官方文档               | https://arco.design/vue/docs/start     |                              | https://www.naiveui.com/zh-CN/os-theme             |
