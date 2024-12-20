@@ -16,3 +16,4 @@
 |          kkFileView 官方文档           |          [跳转](https://mybatis-plus-join.github.io/)          |
 |      Knife4j（Swagger增强） 官方文档       |               [跳转](https://doc.xiaominfo.com/)               |
 |  MinIO-Plus （MinIO二次封装与增强工具） 官方文档  |              [跳转](https://minioplus.liuxp.me/)               |
+|        X File Storage 官方文档         |          [跳转](https://x-file-storage.xuyanwu.cn/#/)          |
