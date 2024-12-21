@@ -28,7 +28,8 @@ Gitee：https://gitee.com/dromara/Jpom
 
 ### LiteFlow
 
-轻量，快速，稳定，可编排的组件式规则引擎/流程引擎。 拥有全新设计的DSL规则表达式。 组件复用，同步/异步编排，动态编排，支持超多语言脚本，复杂嵌套规则，热部署，平滑刷新规则等等功能，让你加快开发效率！
+轻量，快速，稳定，可编排的组件式规则引擎/流程引擎。 拥有全新设计的DSL规则表达式。
+组件复用，同步/异步编排，动态编排，支持超多语言脚本，复杂嵌套规则，热部署，平滑刷新规则等等功能，让你加快开发效率！
 
 官网：https://liteflow.yomahub.com/
 
@@ -36,7 +37,8 @@ Gitee：https://gitee.com/dromara/liteFlow
 
 ### Easy-Es
 
-Elasticsearch 国内顶尖 elasticsearch 搜索引擎框架 es ORM 框架，索引全自动智能托管，如丝般顺滑，与Mybatis-plus一致的API，屏蔽语言差异，开发者只需要会MySQL语法即可完成对Es的相关操作，零额外学习成本。底层采用RestHighLevelClient，兼具低码，易用，易拓展等特性，支持es独有的高亮，权重，分词，Geo等功能。
+Elasticsearch 国内顶尖 elasticsearch 搜索引擎框架 es ORM
+框架，索引全自动智能托管，如丝般顺滑，与Mybatis-plus一致的API，屏蔽语言差异，开发者只需要会MySQL语法即可完成对Es的相关操作，零额外学习成本。底层采用RestHighLevelClient，兼具低码，易用，易拓展等特性，支持es独有的高亮，权重，分词，Geo等功能。
 
 官网：https://easy-es.cn/
 
@@ -70,7 +72,9 @@ Gitee：https://gitee.com/zhengqingya/docker-compose
 
 ### X Spring File Storage
 
-在 SpringBoot 中通过简单的方式将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingStor、IBM COS 等平台
+在 SpringBoot 中通过简单的方式将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云
+BOS、又拍云USS、MinIO、 AWS S3、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云
+QingStor、IBM COS 等平台
 
 在线文档：https://spring-file-storage.xuyanwu.cn/#/
 
@@ -86,7 +90,8 @@ Gitee：https://gitee.com/ballcat-projects/ballcat
 
 ### kubeasz
 
-**kubeasz** 致力于提供快速部署高可用`k8s`集群的工具， 同时也努力成为`k8s`实践、使用的参考书；基于二进制方式部署和利用`ansible-playbook`实现自动化；既提供一键安装脚本， 也可以根据`安装指南`分步执行安装各个组件。
+**kubeasz** 致力于提供快速部署高可用`k8s`集群的工具， 同时也努力成为`k8s`实践、使用的参考书；基于二进制方式部署和利用
+`ansible-playbook`实现自动化；既提供一键安装脚本， 也可以根据`安装指南`分步执行安装各个组件。
 
 Github：https://github.com/easzlab/kubeasz
 
@@ -118,7 +123,9 @@ Gitee：https://gitee.com/y_project/RuoYi-Vue
 
 ### ruoyi-vue-pro
 
-🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element
+实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的
+⭐️ Star ⭐️，是作者生发的动力！
 
 演示地址：http://dashboard.yudao.iocoder.cn
 
@@ -140,11 +147,12 @@ Gitee：https://gitee.com/binary/weixin-java-tools
 
 演示环境：https://demo.maku.net/maku-generator
 
-Gitee：https://gitee.com/makunet/maku-generator	
+Gitee：https://gitee.com/makunet/maku-generator
 
 ### maku-admin
 
-🔥永久免费 🔥 基于Vue3、TypeScript、Element Plus、Vue Router、Pinia、Axios、i18n、Vite等开发的后台管理，使用门槛极低，采用MIT开源协议，完全免费开源且终身免费，可免费用于商业项目等场景！
+🔥永久免费 🔥 基于Vue3、TypeScript、Element Plus、Vue
+Router、Pinia、Axios、i18n、Vite等开发的后台管理，使用门槛极低，采用MIT开源协议，完全免费开源且终身免费，可免费用于商业项目等场景！
 
 开发文档：https://maku.net/docs/maku-admin
 
@@ -176,7 +184,8 @@ Gitee：https://gitee.com/sanri/sanri-tools
 
 ### SpringBlade
 
-SpringBlade 是一个由商业级项目升级优化而来的微服务架构，采用Spring Boot 2.7 、Spring Cloud 2021 等核心技术构建，完全遵循阿里巴巴编码规范。提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。
+SpringBlade 是一个由商业级项目升级优化而来的微服务架构，采用Spring Boot 2.7 、Spring Cloud 2021
+等核心技术构建，完全遵循阿里巴巴编码规范。提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。
 
 SpringBlade 致力于创造新颖的开发模式，将开发中遇到的痛点、生产中所踩的坑整理归纳，并将解决方案都融合到框架中。
 
@@ -188,13 +197,15 @@ Gitee：https://gitee.com/smallc/SpringBlade
 
 对mybatis-plus-generator进行封装，通过Web UI快速生成兼容Spring boot，mybatis-plus框架的各类业务代码
 
-提供交互式的Web UI用于生成兼容mybatis-plus框架的相关功能代码，包括Entity,Mapper,Mapper.xml,Service,Controller等 ，可以自定义模板以及各类输出参数，也可通过SQL查询语句直接生成代码。
+提供交互式的Web UI用于生成兼容mybatis-plus框架的相关功能代码，包括Entity,Mapper,Mapper.xml,Service,Controller等
+，可以自定义模板以及各类输出参数，也可通过SQL查询语句直接生成代码。
 
 Github：https://github.com/davidfantasy/mybatis-plus-generator-ui
 
 ### JPress
 
-JPress 是一个使用 Java 开发的、开源免费 的建站神器，灵感来源于 WordPress，目前已经有超过 10w+ 的网站使用 JPress 搭建，其中包括多个政府机构，200+上市公司，中科院、红十字会等。
+JPress 是一个使用 Java 开发的、开源免费 的建站神器，灵感来源于 WordPress，目前已经有超过 10w+ 的网站使用 JPress
+搭建，其中包括多个政府机构，200+上市公司，中科院、红十字会等。
 
 官网：http://www.jpress.cn/
 
@@ -202,7 +213,9 @@ Github：https://github.com/JPressProjects/jpress
 
 ### Geeker-Admin
 
-Geeker-Admin 一款基于 Vue3.2、TypeScript、Vite4、Pinia、Element-Plus 开源的后台管理框架，使用目前最新技术栈开发。项目提供强大的 [ProTable](https://juejin.cn/post/7166068828202336263) 组件，在一定程度上节省您的开发效率。另外本项目还封装了一些常用组件、Hooks、指令、动态路由、按钮级别权限控制等功能。
+Geeker-Admin 一款基于 Vue3.2、TypeScript、Vite4、Pinia、Element-Plus
+开源的后台管理框架，使用目前最新技术栈开发。项目提供强大的 [ProTable](https://juejin.cn/post/7166068828202336263)
+组件，在一定程度上节省您的开发效率。另外本项目还封装了一些常用组件、Hooks、指令、动态路由、按钮级别权限控制等功能。
 
 项目文档地址：https://docs.spicyboy.cn
 
@@ -212,7 +225,8 @@ GitHub：https://github.com/HalseySpicy/Geeker-Admin
 
 ### IJPay
 
-聚合支付，IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。
+聚合支付，IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal支付等常用的支付方式以及各种常用的接口。不依赖任何第三方
+mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。
 
 文档地址：https://javen205.gitee.io/ijpay/
 
@@ -234,7 +248,8 @@ Github：https://github.com/lets-mica/mica
 
 ### qiwen-file
 
-基于Spring Boot + VUE CLI@3 框架开发的分布式文件系统，旨在为用户和企业提供一个简单、方便的文件存储方案，能够以完善的目录结构体系，对文件进行管理 。
+基于Spring Boot + VUE CLI@3
+框架开发的分布式文件系统，旨在为用户和企业提供一个简单、方便的文件存储方案，能够以完善的目录结构体系，对文件进行管理 。
 
 文档：https://pan.qiwenshare.com/docs/
 
@@ -252,11 +267,12 @@ Gitee：https://gitee.com/dromara/dynamic-tp
 
 ### Jeepay
 
-Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接`微信支付`，`支付宝`，`云闪付`官方接口，支持聚合码支付。
+Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接`微信支付`，`支付宝`，`云闪付`
+官方接口，支持聚合码支付。
 
 Jeepay使用`Spring Boot`和`Ant Design Vue`开发，集成`Spring Security`实现权限管理功能，是一套非常实用的web开发框架。
 
-####  🎁 名称的由来
+#### 🎁 名称的由来
 
 Jeepay = Jee + pay，是由原XxPay支付系统作者带领团队开发，“Jee”是公司计全科技名称的表示，pay表示支付。中文名称为计全支付，释为：计出万全、支付安全，让支付更加方便安全。
 
@@ -287,7 +303,9 @@ Jeepay = Jee + pay，是由原XxPay支付系统作者带领团队开发，“Jee
 
 ### JustAuth
 
-🏆Gitee 最有价值开源项目 🚀💯 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
+🏆Gitee 最有价值开源项目 🚀💯
+小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和
+Line 等第三方平台的授权登录。 Login, so easy!
 
 文档：www.justauth.cn
 
@@ -321,7 +339,8 @@ Github：https://github.com/liaochong/myexcel
 
 ### kkFileView
 
-使用spring boot打造文件文档在线预览项目解决方案，支持doc、docx、ppt、pptx、wps、xls、xlsx、zip、rar、ofd、xmind、bpmn 、eml 、epub、3ds、dwg、psd 、mp4、mp3以及众多类文本类型文件在线预览。
+使用spring boot打造文件文档在线预览项目解决方案，支持doc、docx、ppt、pptx、wps、xls、xlsx、zip、rar、ofd、xmind、bpmn 、eml
+、epub、3ds、dwg、psd 、mp4、mp3以及众多类文本类型文件在线预览。
 
 在线文档：https://kkview.cn/zh-cn/index.html
 
@@ -353,7 +372,7 @@ Docker 可视化面板系统，提供完善的 docker 管理功能。
 
 Github：https://github.com/donknap/dpanel
 
-### SnailJob 
+### SnailJob
 
 🔥🔥🔥 灵活，可靠和快速的分布式任务重试和分布式任务调度平台
 
@@ -361,7 +380,8 @@ Gitee：https://gitee.com/aizuda/snail-job
 
 ### Cool-Admin
 
-🔥 cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 3.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建
+🔥 cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js
+3.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建
 
 官网：https://www.cool-admin.com/
 
@@ -391,7 +411,8 @@ Github：https://github.com/Stirling-Tools/Stirling-PDF
 
 ### Textbus
 
-🚀 Textbus 是一个组件化、跨平台、数据驱动的富文本框架，支持使用 Viewfly、Vue、React 渲染富文本内容，并坚定的支持在线多人协作。你可以在 Textbus 中轻松创建出类似钉钉文档、石墨文档、飞书文档等完全自定义的编辑器。
+🚀 Textbus 是一个组件化、跨平台、数据驱动的富文本框架，支持使用 Viewfly、Vue、React 渲染富文本内容，并坚定的支持在线多人协作。你可以在
+Textbus 中轻松创建出类似钉钉文档、石墨文档、飞书文档等完全自定义的编辑器。
 
 官方文档：https://textbus.io/
 
@@ -410,3 +431,7 @@ Github：https://github.com/zhensherlock/watermark-js-plus
 开源行为验证码
 
 Gitee：https://gitee.com/dromara/tianai-captcha
+
+### sensitive-word 敏感词过滤
+
+Github：https://github.com/houbb/sensitive-word
