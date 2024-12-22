@@ -1,8 +1,9 @@
 ## 实用项目
 
-| 名称                                       | 网址                                     |
-|------------------------------------------|----------------------------------------|
-| vite + vue3 + ts 开箱即用现代开发模板 tov-template | https://gitee.com/dishait/tov-template |
+| 名称                                       | 网址                                        |
+|------------------------------------------|-------------------------------------------|
+| vite + vue3 + ts 开箱即用现代开发模板 tov-template | https://gitee.com/dishait/tov-template    |
+| 基于 Vue3 的弹幕交互组件                          | https://github.com/hellodigua/vue-danmaku |
 
 ## 实用库
 
