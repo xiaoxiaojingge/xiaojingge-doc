@@ -7,11 +7,12 @@
 
 ## 实用库
 
-| 名称                  | 网址                                                      |
-|---------------------|---------------------------------------------------------|
-| 富文本编辑器 v-md-editor  | https://code-farmer-i.github.io/vue-markdown-editor/zh/ |
-| 富文本编辑器 vditor       | https://b3log.org/vditor/                               |
-| 富文本编辑器 md-editor-v3 | https://imzbf.github.io/md-editor-v3/                   |
+| 名称                  | 网址                                                           |
+|---------------------|--------------------------------------------------------------|
+| 富文本编辑器 v-md-editor  | https://code-farmer-i.github.io/vue-markdown-editor/zh/      |
+| 富文本编辑器 vditor       | https://b3log.org/vditor/                                    |
+| 富文本编辑器 md-editor-v3 | https://imzbf.github.io/md-editor-v3/                        |
+| 表情包组件               | https://blog.csdn.net/miaomiaowins/article/details/141257838 |
 
 ## 实用网站
 
