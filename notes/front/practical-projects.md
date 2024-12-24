@@ -21,3 +21,7 @@
 | loading.io （涵盖开发各种场景loading效果） | https://loading.io/#editor             |
 | Emoji图标                        | https://www.emojiall.com/              |     
 | CSS网格布局生成器                     | https://cssgrid-generator.netlify.app/ |     
+| 汇集大量button样式                   | http://ww25.cssbutton.io/              |     
+| 渐变色工具                          | https://cssgradient.io/                |     
+| box-shadow设计利器                 | https://neumorphism.io/                |     
+| AI配色网站                         | https://aicolors.co/                   |     
