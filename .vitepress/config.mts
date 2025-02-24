@@ -302,6 +302,7 @@ export default defineConfig({
                     {text: 'gitlab', link: 'gitlab'},
                     {text: 'xxl-job', link: 'xxl-job'},
                     {text: 'dpanel', link: 'dpanel'},
+                    {text: 'elasticsearch', link: 'elasticsearch'},
                 ],
             },
             {
